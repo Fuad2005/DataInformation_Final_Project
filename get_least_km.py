@@ -10,5 +10,6 @@ data['temp_driven_km'] = data['temp_driven_km'].astype(int)
 
 data = data.sort_values('temp_driven_km')
 data = data.drop(columns=['temp_driven_km'])
+data = data.drop(columns=['date_of_publication'])
 
 print(tabulate(data, headers='keys', tablefmt='rst'))
