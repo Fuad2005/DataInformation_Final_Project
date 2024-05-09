@@ -1,0 +1,540 @@
+city,brand,model,year,type,color,engine,driven_km,transmission,drive_unit,new,price,date_of_publication,url
+Bakı,BMW,750,2010,Sedan,Qara,4.4 L/407 a.g./Benzin,202 000 km,Avtomat,Tam,Xeyr,22 700 AZN,,https://turbo.az/autos/8375763-bmw-750
+Bakı,Li Auto,L9,2023,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/450 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,114 750 AZN,,https://turbo.az/autos/8290183-li-auto-l9
+Bakı,Li Auto,L9,2023,"Offroader / SUV, 5 qapı",Qara,1.5 L/450 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,106 590 AZN,,https://turbo.az/autos/8290168-li-auto-l9
+Bakı,Polestones,01,2024,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/476 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,99 450 AZN,,https://turbo.az/autos/8390997-polestones-01
+Bakı,BMW,528,2012,Sedan,Qara,2.0 L/245 a.g./Benzin,168 000 km,Avtomat,Arxa,Xeyr,38 760 AZN,,https://turbo.az/autos/8335633-bmw-528
+Bakı,Hyundai,Elantra,2018,Sedan,Ağ,1.6 L/204 a.g./Benzin,60 000 km,Avtomat,Ön,Xeyr,27 400 AZN,,https://turbo.az/autos/8404881-hyundai-elantra
+Bakı,Mazda,5,2007,Minivan,Yaş Asfalt,2.3 L/153 a.g./Benzin,360 000 km,Avtomat,Ön,Xeyr,11 400 AZN,,https://turbo.az/autos/8166126-mazda-5
+Bakı,ZEEKR,001,2023,Sedan,Boz,0.0 L/544 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,71 230 AZN,,https://turbo.az/autos/8239147-zeekr-001
+Sumqayıt,Chevrolet,Aveo,2011,Sedan,Ağ,1.6 L/115 a.g./Benzin,230 000 km,Avtomat,Ön,Xeyr,12 300 AZN,,https://turbo.az/autos/8398627-chevrolet-aveo
+Bakı,Maserati,Grecale,2024,"Offroader / SUV, 5 qapı",Boz,2.0 L/300 a.g./Hibrid,0 km,Avtomat,Tam,Bəli,132 101 AZN,,https://turbo.az/autos/8369954-maserati-grecale
+Bakı,Mercedes,Vito 115,2008,Minivan,Gümüşü,2.2 L/150 a.g./Dizel,201 421 km,Avtomat,Arxa,Xeyr,30 000 AZN,,https://turbo.az/autos/8240211-mercedes-vito-115
+Bakı,BMW,X1,2020,"Offroader / SUV, 5 qapı",Qara,2.0 L/192 a.g./Benzin,40 000 km,Avtomat,Tam,Xeyr,48 960 AZN,,https://turbo.az/autos/8369866-bmw-x1
+Bakı,Mercedes,E 220 d,2015,Sedan,Boz,2.2 L/170 a.g./Dizel,128 000 km,Avtomat,Arxa,Xeyr,44 030 AZN,,https://turbo.az/autos/8376199-mercedes-e-220-d
+Bakı,Bestune,T99,2022,"Offroader / SUV, 5 qapı",Göy,2.0 L/225 a.g./Benzin,0 km,Avtomat,Ön,Bəli,49 000 AZN,,https://turbo.az/autos/6181498-bestune-t99
+Bakı,Bestune,NAT,2022,Minivan,Ağ,0.0 L/190 a.g./Elektro,0 km,Reduktor,Ön,Bəli,34 900 AZN,,https://turbo.az/autos/7765783-bestune-nat
+Bakı,Bestune,T99,2023,"Offroader / SUV, 5 qapı",Qara,2.0 L/225 a.g./Benzin,0 km,Avtomat,Ön,Bəli,49 000 AZN,,https://turbo.az/autos/7925076-bestune-t99
+Bakı,Bestune,T99,2023,"Offroader / SUV, 5 qapı",Ağ,2.0 L/225 a.g./Benzin,0 km,Avtomat,Ön,Bəli,49 000 AZN,,https://turbo.az/autos/7925610-bestune-t99
+Bakı,Bestune,T99,2023,"Offroader / SUV, 5 qapı",Gümüşü,2.0 L/225 a.g./Benzin,0 km,Avtomat,Ön,Bəli,49 000 AZN,,https://turbo.az/autos/7925629-bestune-t99
+Bakı,Land Rover,Range Rover,2020,"Offroader / SUV, 5 qapı",Qara,5.0 L/510 a.g./Benzin,77 000 km,Avtomat,Tam,Xeyr,220 150 AZN,,https://turbo.az/autos/8053922-land-rover-range-rover
+Bakı,MG,4 EV,2023,"Hetçbek, 5 qapı",Ağ,0.0 L/204 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,43 900 AZN,,https://turbo.az/autos/7808700-mg-4-ev
+Bakı,ZEEKR,007,2024,Sedan,Qara,0.0 L/422 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,72 250 AZN,,https://turbo.az/autos/8404479-zeekr-007
+Bakı,BMW,528,2014,Sedan,Qara,2.0 L/245 a.g./Benzin,218 000 km,Avtomat,Arxa,Xeyr,35 530 AZN,,https://turbo.az/autos/8411752-bmw-528
+Bakı,Kia,Stinger,2019,Liftbek,Yaş Asfalt,2.0 L/247 a.g./Benzin,41 000 km,Avtomat,Ön,Xeyr,38 930 AZN,,https://turbo.az/autos/8310512-kia-stinger
+Bakı,Hyundai,Elantra,2015,Sedan,Qara,1.8 L/150 a.g./Benzin,123 000 km,Avtomat,Ön,Xeyr,23 800 AZN,,https://turbo.az/autos/8405025-hyundai-elantra
+Bakı,Lexus,RX 300,2021,"Offroader / SUV, 5 qapı",Boz,2.0 L/238 a.g./Benzin,30 000 km,Avtomat,Tam,Xeyr,88 400 AZN,,https://turbo.az/autos/8298469-lexus-rx-300
+Bakı,Mercedes,GLB 250,2019,"Offroader / SUV, 5 qapı",Gümüşü,2.0 L/224 a.g./Benzin,47 000 km,Avtomat,Ön,Xeyr,63 920 AZN,,https://turbo.az/autos/8405301-mercedes-glb-250
+Bakı,BMW,530,2018,Sedan,Ağ,2.0 L/249 a.g./Benzin,177 028 km,Avtomat,Arxa,Xeyr,46 410 AZN,,https://turbo.az/autos/8278765-bmw-530
+Bakı,Kia,Sorento,2014,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,160 000 km,Avtomat,Ön,Xeyr,36 800 AZN,,https://turbo.az/autos/8327378-kia-sorento
+Bakı,Toyota,Land Cruiser Prado,2013,"Offroader / SUV, 5 qapı",Ağ,2.7 L/163 a.g./Benzin,158 800 km,Avtomat,Tam,Xeyr,44 710 AZN,,https://turbo.az/autos/8299632-toyota-land-cruiser-prado
+Bakı,BMW,750,2009,Sedan,Qara,4.4 L/407 a.g./Benzin,255 000 km,Avtomat,Arxa,Xeyr,28 000 AZN,,https://turbo.az/autos/8352203-bmw-750
+Bakı,Hyundai,Sonata,2020,Sedan,Qara,2.0 L/192 a.g./Hibrid,79 800 km,Avtomat,Ön,Xeyr,45 730 AZN,,https://turbo.az/autos/8055001-hyundai-sonata
+Bakı,Land Rover,Range Rover,2024,"Offroader / SUV, 5 qapı",Qara,3.0 L/400 a.g./Benzin,1 200 km,Avtomat,Tam,Xeyr,387 600 AZN,,https://turbo.az/autos/8153123-land-rover-range-rover
+Bakı,Land Rover,Range Rover,2023,"Offroader / SUV, 5 qapı",Qara,3.0 L/400 a.g./Benzin,0 km,Avtomat,Tam,Bəli,352 750 AZN,,https://turbo.az/autos/8321509-land-rover-range-rover
+Bakı,Hyundai,Sonata,2021,Sedan,Göy,1.6 L/180 a.g./Benzin,2 640 km,Avtomat,Ön,Xeyr,47 090 AZN,,https://turbo.az/autos/8385592-hyundai-sonata
+Bakı,GAZ,12 ЗИМ,1955,Sedan,Qara,3.5 L/90 a.g./Benzin,1 200 km,Mexaniki,Arxa,Xeyr,67 000 AZN,,https://turbo.az/autos/8033462-gaz-12
+Bakı,Kia,Sorento,2015,"Offroader / SUV, 5 qapı",Boz,2.0 L/186 a.g./Dizel,154 000 km,Avtomat,Ön,Xeyr,41 500 AZN,,https://turbo.az/autos/8401298-kia-sorento
+Bakı,Porsche,Macan,2022,"Offroader / SUV, 5 qapı",Çəhrayı,2.0 L/252 a.g./Benzin,8 900 km,Avtomat,Tam,Xeyr,113 900 AZN,,https://turbo.az/autos/8398095-porsche-macan
+Bakı,Mitsubishi,Airtrek,2002,"Offroader / SUV, 5 qapı",Qara,2.0 L/126 a.g./Benzin,220 000 km,Avtomat,Tam,Xeyr,13 800 AZN,,https://turbo.az/autos/8222434-mitsubishi-airtrek
+Bakı,Land Rover,RR Evoque,2014,"Offroader / SUV, 5 qapı",Yaşıl,2.0 L/240 a.g./Benzin,156 000 km,Avtomat,Tam,Xeyr,38 760 AZN,,https://turbo.az/autos/8383551-land-rover-rr-evoque
+Bakı,Hyundai,Santa Fe,2014,"Offroader / SUV, 5 qapı",Ağ,2.2 L/197 a.g./Dizel,83 000 km,Avtomat,Tam,Xeyr,39 500 AZN,,https://turbo.az/autos/8383783-hyundai-santa-fe
+Bakı,Infiniti,Q50,2016,Sedan,Ağ,2.2 L/170 a.g./Dizel,135 000 km,Avtomat,Arxa,Xeyr,33 700 AZN,,https://turbo.az/autos/8420426-infiniti-q50
+Bakı,Mercedes,C 300,2022,Sedan,Qara,2.0 L/249 a.g./Benzin,17 000 km,Avtomat,Arxa,Xeyr,98 600 AZN,,https://turbo.az/autos/8353949-mercedes-c-300
+Sumqayıt,Toyota,Corolla,2005,Sedan,Gümüşü,1.4 L/97 a.g./Benzin,166 212 km,Mexaniki,Ön,Xeyr,13 800 AZN,,https://turbo.az/autos/6753936-toyota-corolla
+Bakı,Changan,Uni-V,2023,Liftbek,Ağ,1.5 L/188 a.g./Benzin,0 km,Avtomat,Ön,Bəli,38 896 AZN,,https://turbo.az/autos/7800983-changan-uni-v
+Sumqayıt,Chevrolet,Cruze,2014,Sedan,Qırmızı,1.4 L/141 a.g./Benzin,225 000 km,Avtomat,Ön,Xeyr,15 000 AZN,,https://turbo.az/autos/7431183-chevrolet-cruze
+Bakı,Porsche,Cayenne,2015,"Offroader / SUV, 5 qapı",Boz,3.6 L/300 a.g./Benzin,92 600 km,Avtomat,Tam,Xeyr,63 750 AZN,,https://turbo.az/autos/8223290-porsche-cayenne
+Bakı,Hyundai,Tucson,2007,"Offroader / SUV, 5 qapı",Boz,2.0 L/141 a.g./Benzin,212 000 km,Avtomat,Tam,Xeyr,16 900 AZN,,https://turbo.az/autos/8375881-hyundai-tucson
+Bakı,Kia,Rio,2005,"Hetçbek, 5 qapı",Gümüşü,1.4 L/97 a.g./Benzin,431 493 km,Mexaniki,Ön,Xeyr,8 500 AZN,,https://turbo.az/autos/8402152-kia-rio
+Bakı,Hyundai,Accent,2011,Sedan,Boz,1.4 L/97 a.g./Benzin,160 000 km,Avtomat,Ön,Xeyr,17 600 AZN,,https://turbo.az/autos/8398115-hyundai-accent
+Lənkəran,Toyota,Highlander,2023,"Offroader / SUV, 5 qapı",Ağ,2.5 L/243 a.g./Benzin,2 780 km,Avtomat,Tam,Xeyr,95 030 AZN,,https://turbo.az/autos/8412791-toyota-highlander
+Bakı,Jeep,Grand Cherokee,2011,"Offroader / SUV, 5 qapı",Yaş Asfalt,3.6 L/286 a.g./Benzin,155 000 km,Avtomat,Tam,Xeyr,31 500 AZN,,https://turbo.az/autos/8052263-jeep-grand-cherokee
+Bakı,Mercedes,E 200,2011,Sedan,Gümüşü,1.8 L/184 a.g./Benzin,220 000 km,Avtomat,Arxa,Xeyr,33 000 AZN,,https://turbo.az/autos/8002536-mercedes-e-200
+Bakı,Hyundai,Santa Fe,2012,"Offroader / SUV, 5 qapı",Ağ,2.4 L/196 a.g./Benzin,112 000 km,Avtomat,Tam,Xeyr,25 800 AZN,,https://turbo.az/autos/8342183-hyundai-santa-fe
+Bakı,Hyundai,Elantra,2019,Sedan,Göy,2.0 L/150 a.g./Benzin,85 000 km,Avtomat,Ön,Xeyr,27 300 AZN,,https://turbo.az/autos/8210656-hyundai-elantra
+Bakı,Mercedes,E 350,2010,Sedan,Qara,3.5 L/272 a.g./Benzin,256 000 km,Avtomat,Arxa,Xeyr,29 100 AZN,,https://turbo.az/autos/8367294-mercedes-e-350
+Bakı,Voyah,Passion,2024,Sedan,Qara,1.5 L/523 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,77 350 AZN,,https://turbo.az/autos/8369488-voyah-passion
+Bakı,Kia,Optima,2016,Sedan,Ağ,2.4 L/188 a.g./Benzin,75 000 km,Avtomat,Ön,Xeyr,39 000 AZN,,https://turbo.az/autos/8421684-kia-optima
+Bakı,Mercedes,C 280,1997,Sedan,Gümüşü,2.8 L/193 a.g./Benzin,240 000 km,Avtomat,Arxa,Xeyr,8 300 AZN,,https://turbo.az/autos/8410484-mercedes-c-280
+Bakı,Honda,Civic,2015,Sedan,Qara,1.5 L/110 a.g./Hibrid,240 000 km,Variator,Ön,Xeyr,18 000 AZN,,https://turbo.az/autos/8422254-honda-civic
+Bakı,Kia,Optima,2012,Sedan,Gümüşü,2.4 L/180 a.g./Benzin,337 962 km,Avtomat,Ön,Xeyr,19 500 AZN,,https://turbo.az/autos/8422251-kia-optima
+Bakı,Porsche,Cayenne Turbo,2018,"Offroader / SUV, 5 qapı",Qara,4.0 L/550 a.g./Benzin,52 000 km,Avtomat,Tam,Xeyr,168 300 AZN,,https://turbo.az/autos/8205197-porsche-cayenne-turbo
+Bakı,Jeep,Wrangler,2018,"Offroader / SUV, 5 qapı",Ağ,2.0 L/272 a.g./Benzin,65 000 km,Avtomat,Tam,Xeyr,64 430 AZN,,https://turbo.az/autos/8269240-jeep-wrangler
+Bakı,Jeep,Wrangler,2012,"Offroader / SUV, 5 qapı",Qara,3.6 L/286 a.g./Benzin,85 000 km,Avtomat,Tam,Xeyr,61 030 AZN,,https://turbo.az/autos/5722964-jeep-wrangler
+Bakı,Hyundai,Elantra,2015,Sedan,Yaş Asfalt,1.8 L/150 a.g./Benzin,47 805 km,Mexaniki,Ön,Xeyr,21 900 AZN,,https://turbo.az/autos/8412224-hyundai-elantra
+Bakı,Kia,Optima,2014,Sedan,Qara,2.0 L/274 a.g./Benzin,95 200 km,Avtomat,Ön,Xeyr,25 900 AZN,,https://turbo.az/autos/8422109-kia-optima
+Bakı,Mercedes,E 200,2011,Sedan,Gümüşü,1.8 L/184 a.g./Benzin,220 000 km,Avtomat,Arxa,Xeyr,31 500 AZN,,https://turbo.az/autos/8002536-mercedes-e-200
+Bakı,Honda,Civic,2015,Sedan,Qara,1.5 L/110 a.g./Hibrid,243 451 km,Avtomat,Ön,Xeyr,17 500 AZN,,https://turbo.az/autos/8422254-honda-civic
+Bakı,MG,5,2023,Sedan,Qara,1.5 L/115 a.g./Benzin,0 km,Avtomat,Ön,Bəli,31 200 AZN,,https://turbo.az/autos/7351661-mg-5
+Bakı,ZEEKR,001,2023,Liftbek,Göy,0.1 L/544 a.g./Elektro,0 km,Reduktor,Tam,Bəli,78 030 AZN,,https://turbo.az/autos/8386725-zeekr-001
+Bakı,Hyundai,Sonata,2023,Sedan,Qara,2.0 L/193 a.g./Hibrid,0 km,Avtomat,Ön,Bəli,63 900 AZN,,https://turbo.az/autos/8246037-hyundai-sonata
+Bakı,Kia,Cerato,2015,Sedan,Boz,1.8 L/149 a.g./Benzin,204 387 km,Avtomat,Ön,Xeyr,19 700 AZN,,https://turbo.az/autos/8415306-kia-cerato
+Bakı,Hyundai,Tucson,2008,"Offroader / SUV, 5 qapı",Qızılı,2.7 L/173 a.g./Benzin,300 000 km,Avtomat,Tam,Xeyr,11 700 AZN,,https://turbo.az/autos/8407469-hyundai-tucson
+Bakı,Mercedes,E 270,2002,Sedan,Boz,2.7 L/177 a.g./Dizel,360 000 km,Avtomat,Arxa,Xeyr,16 600 AZN,,https://turbo.az/autos/8387275-mercedes-e-270
+Bakı,Toyota,Corolla,2018,Sedan,Ağ,1.6 L/124 a.g./Benzin,41 300 km,Avtomat,Ön,Xeyr,30 940 AZN,,https://turbo.az/autos/8338105-toyota-corolla
+Bakı,Hyundai,Elantra,2018,Sedan,Göy,2.0 L/150 a.g./Benzin,89 000 km,Avtomat,Ön,Xeyr,25 900 AZN,,https://turbo.az/autos/8384434-hyundai-elantra
+Bakı,Nissan,Tiida,2011,"Hetçbek, 5 qapı",Qara,1.4 L/109 a.g./Benzin,74 744 km,Avtomat,Ön,Xeyr,15 500 AZN,,https://turbo.az/autos/8364995-nissan-tiida
+Bakı,Lexus,LX 570,2012,"Offroader / SUV, 5 qapı",Qara,5.7 L/367 a.g./Benzin,195 000 km,Avtomat,Tam,Xeyr,60 350 AZN,,https://turbo.az/autos/8404096-lexus-lx-570
+Bakı,Land Rover,RR Sport,2015,"Offroader / SUV, 5 qapı",Yaş Asfalt,3.0 L/340 a.g./Benzin,144 825 km,Avtomat,Tam,Xeyr,62 560 AZN,,https://turbo.az/autos/8213835-land-rover-rr-sport
+Bakı,Lexus,ES 300h,2022,Sedan,Yaş Asfalt,2.5 L/218 a.g./Hibrid,70 400 km,Avtomat,Ön,Xeyr,76 500 AZN,,https://turbo.az/autos/8171427-lexus-es-300h
+Bakı,Hyundai,Tucson,2022,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/150 a.g./Benzin,11 311 km,Avtomat,Tam,Xeyr,51 500 AZN,,https://turbo.az/autos/8397839-hyundai-tucson
+Kürdəmir,LADA (VAZ),2106,2005,Sedan,Ağ,1.5 L/65 a.g./Benzin,82 673 km,Mexaniki,Arxa,Xeyr,4 000 AZN,,https://turbo.az/autos/8422369-lada-vaz-2106
+Bakı,Kia,Cerato,2014,Sedan,Qəhvəyi,1.8 L/150 a.g./Benzin,102 000 km,Avtomat,Ön,Xeyr,19 700 AZN,,https://turbo.az/autos/8348932-kia-cerato
+Xaçmaz,Hyundai,Elantra,2013,Sedan,Yaş Asfalt,1.8 L/150 a.g./Benzin,203 460 km,Avtomat,Ön,Xeyr,20 000 AZN,,https://turbo.az/autos/8422371-hyundai-elantra
+Bakı,Kia,Sorento,2019,"Offroader / SUV, 5 qapı",Ağ,2.0 L/186 a.g./Dizel,108 000 km,Avtomat,Ön,Xeyr,47 900 AZN,,https://turbo.az/autos/8252844-kia-sorento
+Bakı,BMW,530,2017,Sedan,Yaş Asfalt,2.0 L/249 a.g./Benzin,87 000 km,Avtomat,Arxa,Xeyr,64 090 AZN,,https://turbo.az/autos/8290800-bmw-530
+Bakı,Infiniti,FX35,2011,"Offroader / SUV, 5 qapı",Qəhvəyi,3.5 L/303 a.g./Benzin,115 000 km,Avtomat,Tam,Xeyr,37 230 AZN,,https://turbo.az/autos/8418952-infiniti-fx35
+Bakı,Kia,Rio,2015,Sedan,Ağ,1.6 L/123 a.g./Benzin,86 000 km,Avtomat,Ön,Xeyr,18 700 AZN,,https://turbo.az/autos/8401404-kia-rio
+Bakı,Kia,Pride,2014,"Hetçbek, 5 qapı",Gümüşü,1.4 L/108 a.g./Benzin,100 000 km,Avtomat,Ön,Xeyr,18 000 AZN,,https://turbo.az/autos/8291667-kia-pride
+Bakı,Toyota,Camry,2011,Sedan,Qara,2.5 L/178 a.g./Benzin,194 000 km,Avtomat,Ön,Xeyr,27 800 AZN,,https://turbo.az/autos/8339630-toyota-camry
+Bakı,Hyundai,ix35,2013,"Offroader / SUV, 5 qapı",Ağ,2.0 L/163 a.g./Benzin,117 000 km,Avtomat,Ön,Xeyr,25 600 AZN,,https://turbo.az/autos/8412527-hyundai-ix35
+Bakı,BMW,M5,2018,Sedan,Yaş Asfalt,4.4 L/625 a.g./Benzin,41 000 km,Robot,Tam,Xeyr,173 400 AZN,,https://turbo.az/autos/8404529-bmw-m5
+Bakı,Toyota,Prius,2007,Liftbek,Yaş Asfalt,1.5 L/76 a.g./Hibrid,223 000 km,Variator,Ön,Xeyr,14 000 AZN,,https://turbo.az/autos/8415939-toyota-prius
+Sumqayıt,Volkswagen,Passat,2015,Sedan,Göy,1.8 L/200 a.g./Benzin,157 094 km,Avtomat,Ön,Xeyr,16 400 AZN,,https://turbo.az/autos/8375055-volkswagen-passat
+Sumqayıt,Volkswagen,Passat,2002,Sedan,Qara,1.8 L/150 a.g./Benzin,224 698 km,Avtomat,Ön,Xeyr,8 900 AZN,,https://turbo.az/autos/8365124-volkswagen-passat
+Bakı,Volkswagen,Passat,2008,Sedan,Qara,1.8 L/156 a.g./Benzin,265 209 km,Avtomat,Ön,Xeyr,10 500 AZN,,https://turbo.az/autos/8389973-volkswagen-passat
+Bakı,BMW,X5,2014,"Offroader / SUV, 5 qapı",Qara,3.0 L/306 a.g./Benzin,165 000 km,Avtomat,Tam,Xeyr,55 930 AZN,,https://turbo.az/autos/8408127-bmw-x5
+Bakı,Toyota,RAV4,2020,"Offroader / SUV, 5 qapı",Ağ,2.5 L/218 a.g./Hibrid,48 500 km,Avtomat,Tam,Xeyr,65 960 AZN,,https://turbo.az/autos/8356956-toyota-rav4
+Lənkəran,Toyota,Avalon,2024,"Offroader / SUV, 5 qapı",Qara,2.5 L/218 a.g./Hibrid,0 km,Avtomat,Ön,Bəli,110 330 AZN,,https://turbo.az/autos/8360520-toyota-avalon
+Bakı,Volkswagen,ID.6,2022,"Offroader / SUV, 5 qapı",Ağ,0.0 L/204 a.g./Elektro,26 000 km,Reduktor,Arxa,Xeyr,48 960 AZN,,https://turbo.az/autos/8395118-volkswagen-id-6
+Bakı,Toyota,Camry,2023,Sedan,Yaş Asfalt,2.5 L/215 a.g./Hibrid,10 km,Avtomat,Ön,Bəli,78 030 AZN,,https://turbo.az/autos/8333494-toyota-camry
+Bakı,LADA (VAZ),2107,2005,Sedan,Yaşıl,1.6 L/75 a.g./Benzin,91 348 km,Mexaniki,Arxa,Xeyr,4 300 AZN,,https://turbo.az/autos/8422367-lada-vaz-2107
+Bakı,Kia,Sorento,2014,"Offroader / SUV, 5 qapı",Qara,2.0 L/186 a.g./Dizel,155 102 km,Avtomat,Ön,Xeyr,38 500 AZN,,https://turbo.az/autos/8367161-kia-sorento
+Sumqayıt,Mercedes,C 230,2005,Sedan,Ağ,2.5 L/204 a.g./Benzin,222 999 km,Avtomat,Arxa,Xeyr,15 111 AZN,,https://turbo.az/autos/8374533-mercedes-c-230
+Bakı,Hongqi,H5,2023,Sedan,Qara,1.5 L/190 a.g./Hibrid,0 km,Avtomat,Ön,Bəli,54 900 AZN,,https://turbo.az/autos/8184490-hongqi-h5
+Bakı,Mercedes,GLE 53 AMG 4MATIC Coupe,2022,SUV Kupe,Qara,3.0 L/435 a.g./Benzin,11 000 km,Avtomat,Tam,Xeyr,198 050 AZN,,https://turbo.az/autos/8386685-mercedes-gle-53-amg-4matic-coupe
+Bakı,Jeep,Grand Cherokee,2023,"Offroader / SUV, 5 qapı",Göy,2.0 L/272 a.g./Benzin,0 km,Avtomat,Tam,Bəli,126 480 AZN,,https://turbo.az/autos/7884491-jeep-grand-cherokee
+Bakı,Hyundai,Elantra,2014,Sedan,Ağ,1.8 L/150 a.g./Benzin,129 000 km,Avtomat,Ön,Xeyr,20 600 AZN,,https://turbo.az/autos/8400957-hyundai-elantra
+Bakı,Toyota,Land Cruiser Prado,2010,"Offroader / SUV, 5 qapı",Ağ,2.7 L/163 a.g./Benzin,144 000 km,Avtomat,Tam,Xeyr,40 700 AZN,,https://turbo.az/autos/8416279-toyota-land-cruiser-prado
+Bakı,Hyundai,Santa Fe,2015,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/184 a.g./Dizel,151 244 km,Avtomat,Tam,Xeyr,31 000 AZN,,https://turbo.az/autos/8250347-hyundai-santa-fe
+Bakı,Kia,K5,2015,Sedan,Boz,2.0 L/156 a.g./Hibrid,158 000 km,Avtomat,Ön,Xeyr,24 700 AZN,,https://turbo.az/autos/8356792-kia-k5
+Bakı,Land Rover,Range Rover,2015,"Offroader / SUV, 5 qapı",Qara,3.0 L/380 a.g./Benzin,116 000 km,Avtomat,Tam,Xeyr,95 030 AZN,,https://turbo.az/autos/8411179-land-rover-range-rover
+Bakı,Jeep,Wrangler,2006,"Offroader / SUV, 5 qapı",Ağ,4.0 L/184 a.g./Benzin,1 000 km,Mexaniki,Tam,Xeyr,73 100 AZN,,https://turbo.az/autos/8331760-jeep-wrangler
+Bakı,Land Rover,Discovery,2015,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Benzin,197 000 km,Avtomat,Tam,Xeyr,55 590 AZN,,https://turbo.az/autos/8385846-land-rover-discovery
+Bakı,LADA (VAZ),21011,1981,Sedan,Narıncı,1.2 L/65 a.g./Benzin,500 000 km,Mexaniki,Arxa,Xeyr,700 AZN,,https://turbo.az/autos/8422414-lada-vaz-21011
+Bakı,Kia,Sorento,2015,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,136 000 km,Avtomat,Ön,Xeyr,40 700 AZN,,https://turbo.az/autos/8243024-kia-sorento
+Gəncə,Ford,Focus,2016,Sedan,Qara,1.0 L/125 a.g./Benzin,100 000 km,Avtomat,Ön,Xeyr,14 900 AZN,,https://turbo.az/autos/8406575-ford-focus
+Bakı,BMW,520,2014,Sedan,Qara,2.0 L/184 a.g./Benzin,145 000 km,Avtomat,Arxa,Xeyr,31 500 AZN,,https://turbo.az/autos/8406104-bmw-520
+Bakı,Opel,Astra,2005,"Hetçbek, 5 qapı",Gümüşü,1.4 L/90 a.g./Benzin,220 000 km,Mexaniki,Ön,Xeyr,10 800 AZN,,https://turbo.az/autos/8405002-opel-astra
+Bakı,BMW,X5,2022,"Offroader / SUV, 5 qapı",Ağ,3.0 L/340 a.g./Benzin,22 000 km,Avtomat,Tam,Xeyr,108 800 AZN,,https://turbo.az/autos/8154714-bmw-x5
+Bakı,BMW,530,2021,Sedan,Boz,2.0 L/249 a.g./Benzin,42 000 km,Avtomat,Arxa,Xeyr,89 930 AZN,,https://turbo.az/autos/8157695-bmw-530
+Bakı,Hyundai,Avante,2014,Sedan,Yaş Asfalt,1.6 L/132 a.g./Dizel,165 000 km,Avtomat,Ön,Xeyr,22 400 AZN,,https://turbo.az/autos/8163718-hyundai-avante
+Bakı,BMW,528,2012,Sedan,Qara,2.0 L/245 a.g./Benzin,216 000 km,Avtomat,Arxa,Xeyr,25 500 AZN,,https://turbo.az/autos/8422413-bmw-528
+Bakı,Hyundai,Sonata,2008,Sedan,Qara,2.4 L/174 a.g./Benzin,245 634 km,Avtomat,Ön,Xeyr,13 900 AZN,,https://turbo.az/autos/8419725-hyundai-sonata
+Bakı,Toyota,Camry,2020,Sedan,Qara,2.5 L/200 a.g./Benzin,149 801 km,Avtomat,Ön,Xeyr,44 200 AZN,,https://turbo.az/autos/8291966-toyota-camry
+Bakı,Mercedes,E 220 d,2006,Sedan,Gümüşü,2.2 L/170 a.g./Dizel,194 000 km,Avtomat,Arxa,Xeyr,23 500 AZN,,https://turbo.az/autos/7966615-mercedes-e-220-d
+Bakı,Hyundai,Santa Fe,2014,"Offroader / SUV, 5 qapı",Ağ,2.0 L/265 a.g./Benzin,108 000 km,Avtomat,Ön,Xeyr,28 500 AZN,,https://turbo.az/autos/8412600-hyundai-santa-fe
+Bakı,BMW,528,1996,Sedan,Qara,2.8 L/193 a.g./Benzin,300 000 km,Avtomat,Arxa,Xeyr,6 800 AZN,,https://turbo.az/autos/8422412-bmw-528
+Bakı,Toyota,Prius,2011,Liftbek,Ağ,1.8 L/99 a.g./Hibrid,289 682 km,Variator,Ön,Xeyr,19 500 AZN,,https://turbo.az/autos/8309219-toyota-prius
+Bakı,Hyundai,Avante,2013,Sedan,Ağ,1.6 L/115 a.g./Dizel,86 000 km,Avtomat,Ön,Xeyr,20 500 AZN,,https://turbo.az/autos/8407296-hyundai-avante
+Bakı,Chevrolet,Epica,2010,Sedan,Qara,2.0 L/148 a.g./Benzin,160 000 km,Avtomat,Ön,Xeyr,14 500 AZN,,https://turbo.az/autos/8422362-chevrolet-epica
+Bakı,Hyundai,Accent,2008,Sedan,Gümüşü,1.5 L/110 a.g./Dizel,230 000 km,Mexaniki,Ön,Xeyr,11 000 AZN,,https://turbo.az/autos/8396726-hyundai-accent
+Bakı,Kia,Sportage,2015,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/184 a.g./Dizel,161 000 km,Avtomat,Ön,Xeyr,34 700 AZN,,https://turbo.az/autos/8221125-kia-sportage
+Bakı,Hyundai,Elantra,2014,Sedan,Ağ,1.6 L/136 a.g./Dizel,181 000 km,Avtomat,Ön,Xeyr,22 700 AZN,,https://turbo.az/autos/8422380-hyundai-elantra
+Sumqayıt,Mercedes,E 220 d,2003,Sedan,Gümüşü,2.2 L/150 a.g./Dizel,286 938 km,Avtomat,Arxa,Xeyr,15 800 AZN,,https://turbo.az/autos/8375592-mercedes-e-220-d
+Bakı,Kia,Cerato,2020,Sedan,Gümüşü,2.0 L/150 a.g./Benzin,88 000 km,Avtomat,Ön,Xeyr,24 800 AZN,,https://turbo.az/autos/8394442-kia-cerato
+Bakı,Chevrolet,Captiva,2022,"Offroader / SUV, 5 qapı",Qırmızı,1.5 L/147 a.g./Benzin,48 000 km,Avtomat,Ön,Xeyr,28 000 AZN,,https://turbo.az/autos/8407531-chevrolet-captiva
+Bakı,Hyundai,Elantra,2016,Sedan,Ağ,1.6 L/132 a.g./Benzin,52 000 km,Avtomat,Ön,Xeyr,24 500 AZN,,https://turbo.az/autos/8415500-hyundai-elantra
+Bakı,Baic,X7,2022,"Offroader / SUV, 5 qapı",Boz,1.5 L/188 a.g./Benzin,0 km,Avtomat,Ön,Bəli,49 900 AZN,,https://turbo.az/autos/6099173-baic-x7
+Bakı,Volkswagen,Tayron,2022,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.4 L/207 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,51 000 AZN,,https://turbo.az/autos/8312584-volkswagen-tayron
+Bakı,VGV,U70 Pro,2024,"Offroader / SUV, 5 qapı",Qara,1.5 L/156 a.g./Benzin,0 km,Avtomat,Ön,Bəli,35 500 AZN,,https://turbo.az/autos/7583168-vgv-u70-pro
+Bakı,BMW,X5,2023,"Offroader / SUV, 5 qapı",Qara,3.0 L/380 a.g./Benzin,8 000 km,Avtomat,Tam,Xeyr,194 650 AZN,,https://turbo.az/autos/8208213-bmw-x5
+Bakı,BMW,X5,2015,"Offroader / SUV, 5 qapı",Ağ,3.0 L/306 a.g./Benzin,122 000 km,Avtomat,Tam,Xeyr,66 000 AZN,,https://turbo.az/autos/8394053-bmw-x5
+Bakı,Hyundai,Elantra,2011,Sedan,Qara,1.8 L/150 a.g./Benzin,143 000 km,Avtomat,Ön,Xeyr,17 500 AZN,,https://turbo.az/autos/8319313-hyundai-elantra
+Bakı,Kia,Niro,2022,"Offroader / SUV, 5 qapı",Boz,1.6 L/153 a.g./Plug-in Hibrid,19 000 km,Avtomat,Ön,Xeyr,38 500 AZN,,https://turbo.az/autos/8217663-kia-niro
+Sumqayıt,Mercedes,E 220 d,1999,Sedan,Gümüşü,2.2 L/143 a.g./Dizel,387 896 km,Avtomat,Arxa,Xeyr,16 300 AZN,,https://turbo.az/autos/8352878-mercedes-e-220-d
+Bakı,BMW,X5,2008,"Offroader / SUV, 5 qapı",Ağ,3.0 L/272 a.g./Benzin,279 000 km,Avtomat,Tam,Xeyr,27 500 AZN,,https://turbo.az/autos/8282602-bmw-x5
+Bakı,Hyundai,Accent,2017,Sedan,Göy,1.6 L/140 a.g./Benzin,96 000 km,Avtomat,Ön,Xeyr,17 900 AZN,,https://turbo.az/autos/8317234-hyundai-accent
+Bakı,Kia,Sportage,2017,"Offroader / SUV, 5 qapı",Ağ,2.0 L/185 a.g./Dizel,132 000 km,Avtomat,Ön,Xeyr,36 000 AZN,,https://turbo.az/autos/8400834-kia-sportage
+Bakı,Kia,K7,2016,Sedan,Yaş Asfalt,2.2 L/202 a.g./Dizel,173 000 km,Avtomat,Ön,Xeyr,34 500 AZN,,https://turbo.az/autos/8416012-kia-k7
+Bakı,Toyota,Land Cruiser Prado,2014,"Offroader / SUV, 5 qapı",Qara,2.7 L/163 a.g./Benzin,140 000 km,Avtomat,Tam,Xeyr,55 760 AZN,,https://turbo.az/autos/8411604-toyota-land-cruiser-prado
+Bakı,Toyota,Prius,2005,Liftbek,Qızılı,1.5 L/76 a.g./Hibrid,100 000 km,Variator,Ön,Xeyr,8 000 AZN,,https://turbo.az/autos/8413955-toyota-prius
+Bakı,LADA (VAZ),2107,2007,Sedan,Göy,1.6 L/75 a.g./Benzin,99 000 km,Mexaniki,Arxa,Xeyr,6 500 AZN,,https://turbo.az/autos/8422366-lada-vaz-2107
+Bakı,Toyota,Camry,2011,Sedan,Ağ,2.4 L/167 a.g./Benzin,196 000 km,Avtomat,Ön,Xeyr,21 500 AZN,,https://turbo.az/autos/8382832-toyota-camry
+Bakı,Mercedes,C 180,1998,Sedan,Qara,1.8 L/122 a.g./Benzin,324 587 km,Avtomat,Arxa,Xeyr,10 900 AZN,,https://turbo.az/autos/8414028-mercedes-c-180
+Bakı,Kia,Cerato,2015,Sedan,Göy,1.8 L/148 a.g./Benzin,125 000 km,Avtomat,Ön,Xeyr,18 900 AZN,,https://turbo.az/autos/8375633-kia-cerato
+Bakı,Volkswagen,Touareg,2024,"Offroader / SUV, 5 qapı",Boz,2.0 L/252 a.g./Benzin,0 km,Avtomat,Tam,Bəli,119 900 AZN,,https://turbo.az/autos/8353360-volkswagen-touareg
+Bakı,Hyundai,Santa Fe,2015,"Offroader / SUV, 5 qapı",Boz,2.0 L/184 a.g./Dizel,191 000 km,Avtomat,Ön,Xeyr,32 800 AZN,,https://turbo.az/autos/8363094-hyundai-santa-fe
+Bakı,Lexus,LX 600,2022,"Offroader / SUV, 5 qapı",Boz,3.5 L/415 a.g./Benzin,18 000 km,Avtomat,Tam,Xeyr,251 600 AZN,,https://turbo.az/autos/8394202-lexus-lx-600
+Bakı,Kia,Optima,2012,Sedan,Yaş Asfalt,2.0 L/274 a.g./Benzin,164 475 km,Avtomat,Arxa,Xeyr,21 500 AZN,,https://turbo.az/autos/8374640-kia-optima
+Bakı,Land Rover,RR Sport,2012,"Offroader / SUV, 5 qapı",Ağ,3.0 L/245 a.g./Dizel,330 000 km,Avtomat,Tam,Xeyr,43 350 AZN,,https://turbo.az/autos/8124172-land-rover-rr-sport
+Bakı,Hyundai,Sonata,2016,Sedan,Boz,2.0 L/274 a.g./Hibrid,69 000 km,Avtomat,Ön,Xeyr,30 200 AZN,,https://turbo.az/autos/8355483-hyundai-sonata
+Bakı,Mercedes,GL 500 4MATIC,2013,"Offroader / SUV, 5 qapı",Göy,4.7 L/435 a.g./Benzin,121 000 km,Avtomat,Tam,Xeyr,45 730 AZN,,https://turbo.az/autos/8291734-mercedes-gl-500-4matic
+Bakı,Li Auto,L7,2023,"Offroader / SUV, 5 qapı",Qara,1.5 L/450 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,88 400 AZN,,https://turbo.az/autos/8404256-li-auto-l7
+Bakı,Changan,CS 75 Plus,2023,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/347 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,47 598 AZN,,https://turbo.az/autos/8212834-changan-cs-75-plus
+Bakı,Lexus,LX 570,2012,"Offroader / SUV, 5 qapı",Ağ,5.7 L/383 a.g./Benzin,158 000 km,Avtomat,Tam,Xeyr,74 630 AZN,,https://turbo.az/autos/6704977-lexus-lx-570
+Bakı,Lynk & Co,05,2024,"Offroader / SUV, 5 qapı",Qara,2.0 L/254 a.g./Benzin,0 km,Avtomat,Tam,Bəli,67 830 AZN,,https://turbo.az/autos/8298824-lynk-co-05
+Bakı,Changan,Qiyuan Q05,2024,"Offroader / SUV, 5 qapı",Ağ,1.5 L/235 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,35 360 AZN,,https://turbo.az/autos/8390730-changan-qiyuan-q05
+Bakı,Honda,Insight,2021,Sedan,Göy,1.5 L/109 a.g./Hibrid,36 000 km,Avtomat,Ön,Xeyr,33 660 AZN,,https://turbo.az/autos/8370394-honda-insight
+Bakı,Honda,Insight,2011,Liftbek,Boz,1.3 L/88 a.g./Hibrid,184 555 km,Variator,Ön,Xeyr,14 500 AZN,,https://turbo.az/autos/8143243-honda-insight
+Bakı,Hyundai,Sonata,2009,Sedan,Qara,2.0 L/165 a.g./Benzin,276 000 km,Avtomat,Ön,Xeyr,21 400 AZN,,https://turbo.az/autos/8339020-hyundai-sonata
+Bakı,Porsche,Cayenne,2012,"Offroader / SUV, 5 qapı",Yaş Asfalt,3.6 L/300 a.g./Benzin,112 000 km,Avtomat,Arxa,Xeyr,50 000 AZN,,https://turbo.az/autos/8376603-porsche-cayenne
+Bakı,Hyundai,Santa Fe,2013,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,134 000 km,Avtomat,Ön,Xeyr,32 400 AZN,,https://turbo.az/autos/8101596-hyundai-santa-fe
+Bakı,LADA (VAZ),2106,1985,Sedan,Ağ,1.5 L/65 a.g./Benzin,99 000 km,Mexaniki,Arxa,Xeyr,4 000 AZN,,https://turbo.az/autos/8340416-lada-vaz-2106
+Bakı,BMW,320,2016,Sedan,Qara,2.0 L/245 a.g./Benzin,141 016 km,Avtomat,Arxa,Xeyr,29 000 AZN,,https://turbo.az/autos/8235185-bmw-320
+Bakı,Hyundai,Sonata,2020,Sedan,Boz,1.6 L/183 a.g./Benzin,27 000 km,Avtomat,Ön,Xeyr,45 730 AZN,,https://turbo.az/autos/8355782-hyundai-sonata
+Gəncə,Kia,Sportage,2012,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,217 000 km,Avtomat,Tam,Xeyr,25 800 AZN,,https://turbo.az/autos/8422374-kia-sportage
+Quba,LADA (VAZ),21011,1980,Sedan,Göy,1.3 L/65 a.g./Benzin,94 713 km,Mexaniki,Arxa,Xeyr,3 100 AZN,,https://turbo.az/autos/8422372-lada-vaz-21011
+Sumqayıt,Kia,Forte,2022,Sedan,Qara,1.8 L/100 a.g./Benzin,193 121 km,Avtomat,Ön,Xeyr,21 800 AZN,,https://turbo.az/autos/8422356-kia-forte
+Bakı,BMW,730,2005,Sedan,Qara,3.0 L/258 a.g./Benzin,380 000 km,Avtomat,Arxa,Xeyr,12 900 AZN,,https://turbo.az/autos/8316545-bmw-730
+Sumqayıt,Kia,Cerato,2021,Sedan,Yaş Asfalt,2.0 L/150 a.g./Benzin,36 202 km,Avtomat,Ön,Xeyr,35 000 AZN,,https://turbo.az/autos/8393667-kia-cerato
+Bakı,Land Rover,RR Sport,2014,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Benzin,135 000 km,Avtomat,Ön,Xeyr,80 750 AZN,,https://turbo.az/autos/8205160-land-rover-rr-sport
+Bakı,Ford,Fusion (North America),2019,Sedan,Qara,1.5 L/181 a.g./Benzin,103 000 km,Avtomat,Ön,Xeyr,21 900 AZN,,https://turbo.az/autos/8243708-ford-fusion-north-america
+Bakı,Ford,F-150,2015,"Pikap, ikiqat kabin",Yaş Asfalt,2.7 L/325 a.g./Benzin,191 800 km,Avtomat,Arxa,Xeyr,75 650 AZN,,https://turbo.az/autos/8409321-ford-f-150
+Bakı,Toyota,Prius,2014,Liftbek,Ağ,1.8 L/99 a.g./Hibrid,139 500 km,Variator,Ön,Xeyr,22 500 AZN,,https://turbo.az/autos/8121889-toyota-prius
+Bakı,Mazda,3,2014,"Hetçbek, 5 qapı",Ağ,2.0 L/150 a.g./Benzin,82 000 km,Avtomat,Ön,Xeyr,23 500 AZN,,https://turbo.az/autos/8275182-mazda-3
+Bakı,Land Rover,RR Sport,2015,"Offroader / SUV, 5 qapı",Gümüşü,3.0 L/306 a.g./Dizel,185 075 km,Avtomat,Tam,Xeyr,67 150 AZN,,https://turbo.az/autos/8361529-land-rover-rr-sport
+Bakı,Kia,Morning,2015,"Hetçbek, 5 qapı",Bej,1.0 L/82 a.g./Benzin,75 000 km,Avtomat,Ön,Xeyr,16 000 AZN,,https://turbo.az/autos/8374272-kia-morning
+Bakı,Kia,Cerato,2015,Sedan,Ağ,1.8 L/150 a.g./Benzin,80 000 km,Avtomat,Ön,Xeyr,21 600 AZN,,https://turbo.az/autos/8373832-kia-cerato
+Bakı,Hyundai,Accent,2012,Sedan,Ağ,1.4 L/97 a.g./Benzin,198 000 km,Avtomat,Ön,Xeyr,18 700 AZN,,https://turbo.az/autos/8268311-hyundai-accent
+Bakı,Daewoo,Gentra,2013,Sedan,Gümüşü,1.5 L/107 a.g./Benzin,310 000 km,Avtomat,Ön,Xeyr,9 500 AZN,,https://turbo.az/autos/8399905-daewoo-gentra
+Bakı,Toyota,Prius,2005,Liftbek,Gümüşü,1.5 L/76 a.g./Hibrid,310 000 km,Variator,Ön,Xeyr,8 900 AZN,,https://turbo.az/autos/8420370-toyota-prius
+Qəbələ,LADA (VAZ),2106,1986,Sedan,Qırmızı,1.6 L/75 a.g./Benzin,252 526 km,Variator,Arxa,Xeyr,3 200 AZN,,https://turbo.az/autos/8422398-lada-vaz-2106
+Sumqayıt,Audi,Q7,2007,"Offroader / SUV, 5 qapı",Ağ,4.2 L/350 a.g./Benzin,266 000 km,Avtomat,Tam,Xeyr,17 700 AZN,,https://turbo.az/autos/8321128-audi-q7
+Bakı,Toyota,Highlander,2023,"Offroader / SUV, 5 qapı",Qara,2.5 L/249 a.g./Hibrid,0 km,Avtomat,Tam,Bəli,107 950 AZN,,https://turbo.az/autos/8148587-toyota-highlander
+Bakı,Chevrolet,Equinox,2020,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/170 a.g./Benzin,99 779 km,Avtomat,Ön,Xeyr,23 900 AZN,,https://turbo.az/autos/8422385-chevrolet-equinox
+Bakı,Kia,Sportage,2015,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Benzin,176 000 km,Avtomat,Ön,Xeyr,28 500 AZN,,https://turbo.az/autos/8307812-kia-sportage
+Bakı,Mercedes,S 560 4MATIC,2017,Sedan,Qara,4.0 L/470 a.g./Benzin,40 500 km,Avtomat,Tam,Xeyr,149 600 AZN,,https://turbo.az/autos/8035680-mercedes-s-560-4matic
+Bakı,Land Rover,Range Rover,2019,"Offroader / SUV, 5 qapı",Qara,5.0 L/530 a.g./Benzin,47 000 km,Avtomat,Tam,Xeyr,198 900 AZN,,https://turbo.az/autos/7920333-land-rover-range-rover
+Göyçay,LADA (VAZ),2110,2005,Sedan,Gümüşü,1.6 L/81 a.g./Benzin,157 155 km,Mexaniki,Ön,Xeyr,7 300 AZN,,https://turbo.az/autos/8422384-lada-vaz-2110
+Bakı,Toyota,Camry,2008,Sedan,Qara,3.5 L/277 a.g./Benzin,215 100 km,Avtomat,Ön,Xeyr,19 800 AZN,,https://turbo.az/autos/8422383-toyota-camry
+Bakı,Kia,Rio,2012,Sedan,Ağ,1.6 L/123 a.g./Benzin,288 203 km,Avtomat,Ön,Xeyr,17 900 AZN,,https://turbo.az/autos/8407707-kia-rio
+Bakı,BMW,X5,2019,"Offroader / SUV, 5 qapı",Qara,3.0 L/345 a.g./Benzin,64 000 km,Avtomat,Tam,Xeyr,101 830 AZN,,https://turbo.az/autos/8354698-bmw-x5
+Bakı,Kia,Picanto,2014,"Hetçbek, 5 qapı",Ağ,1.0 L/69 a.g./Benzin,173 894 km,Avtomat,Ön,Xeyr,14 400 AZN,,https://turbo.az/autos/8292135-kia-picanto
+Bakı,Chevrolet,Volt,2012,Liftbek,Ağ,1.4 L/84 a.g./Plug-in Hibrid,268 300 km,Variator,Ön,Xeyr,15 900 AZN,,https://turbo.az/autos/8415852-chevrolet-volt
+Naxçıvan,Land Rover,RR Sport,2007,"Offroader / SUV, 5 qapı",Göy,4.2 L/390 a.g./Benzin,220 000 km,Avtomat,Tam,Xeyr,29 000 AZN,,https://turbo.az/autos/8367500-land-rover-rr-sport
+Bakı,Mercedes,A 200,2005,"Hetçbek, 5 qapı",Gümüşü,2.0 L/136 a.g./Benzin,275 875 km,Avtomat,Ön,Xeyr,9 400 AZN,,https://turbo.az/autos/8417251-mercedes-a-200
+Yevlax,Mercedes,C 280,1997,Sedan,Yaş Asfalt,2.8 L/197 a.g./Benzin,280 000 km,Avtomat,Arxa,Xeyr,9 500 AZN,,https://turbo.az/autos/8422382-mercedes-c-280
+Bakı,Ford,Fusion (North America),2016,Sedan,Qara,1.5 L/181 a.g./Benzin,146 200 km,Avtomat,Ön,Xeyr,21 400 AZN,,https://turbo.az/autos/8404963-ford-fusion-north-america
+Bakı,Hyundai,Accent,2013,Sedan,Ağ,1.6 L/128 a.g./Dizel,262 200 km,Avtomat,Ön,Xeyr,19 300 AZN,,https://turbo.az/autos/8405652-hyundai-accent
+Bakı,Toyota,Corolla,2019,Sedan,Ağ,1.6 L/124 a.g./Benzin,148 000 km,Avtomat,Ön,Xeyr,29 800 AZN,,https://turbo.az/autos/8413216-toyota-corolla
+Bakı,Kia,Sorento,2015,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/184 a.g./Dizel,170 000 km,Avtomat,Tam,Xeyr,34 000 AZN,,https://turbo.az/autos/8391072-kia-sorento
+Bakı,Opel,Astra,2005,Sedan,Ağ,1.4 L/90 a.g./Benzin,222 739 km,Mexaniki,Ön,Xeyr,9 800 AZN,,https://turbo.az/autos/7988833-opel-astra
+Sumqayıt,LADA (VAZ),2106,1997,Sedan,Ağ,1.5 L/65 a.g./Benzin,99 000 km,Mexaniki,Arxa,Xeyr,3 000 AZN,,https://turbo.az/autos/8419385-lada-vaz-2106
+Bakı,Toyota,bZ4X,2022,"Offroader / SUV, 5 qapı",Qara,0.0 L/204 a.g./Elektro,0 km,Reduktor,Tam,Bəli,57 630 AZN,,https://turbo.az/autos/7474132-toyota-bz4x
+Bakı,XPeng,G9,2023,"Offroader / SUV, 5 qapı",Ağ,0.0 L/313 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,84 830 AZN,,https://turbo.az/autos/8024768-xpeng-g9
+Sumqayıt,Ford,Fusion (North America),2013,Sedan,Ağ,1.6 L/181 a.g./Benzin,182 000 km,Avtomat,Ön,Xeyr,17 900 AZN,,https://turbo.az/autos/8071941-ford-fusion-north-america
+Bakı,ZEEKR,007,2024,Sedan,Qara,0.0 L/646 a.g./Elektro,0 km,Reduktor,Tam,Bəli,71 230 AZN,,https://turbo.az/autos/8243165-zeekr-007
+Bakı,Toyota,Corolla,2014,Sedan,Ağ,1.6 L/122 a.g./Benzin,240 000 km,Variator,Ön,Xeyr,22 800 AZN,,https://turbo.az/autos/8420570-toyota-corolla
+Bakı,BMW,530,2018,Sedan,Qara,2.0 L/252 a.g./Benzin,97 000 km,Avtomat,Arxa,Xeyr,62 050 AZN,,https://turbo.az/autos/8412076-bmw-530
+Bakı,BMW,730,2006,Sedan,Qara,3.0 L/258 a.g./Benzin,300 000 km,Avtomat,Arxa,Xeyr,13 300 AZN,,https://turbo.az/autos/8394946-bmw-730
+Bakı,Cadillac,ATS,2015,Sedan,Qara,2.0 L/272 a.g./Benzin,180 000 km,Avtomat,Tam,Xeyr,26 500 AZN,,https://turbo.az/autos/7922272-cadillac-ats
+Bakı,Mercedes,EQC 400 4MATIC,2021,"Offroader / SUV, 5 qapı",Qara,0.0 L/402 a.g./Elektro,16 000 km,Reduktor,Tam,Xeyr,85 850 AZN,,https://turbo.az/autos/8310500-mercedes-eqc-400-4matic
+Bakı,Mercedes,E 220,2014,Sedan,Ağ,2.2 L/170 a.g./Dizel,215 000 km,Avtomat,Arxa,Xeyr,39 100 AZN,,https://turbo.az/autos/8416507-mercedes-e-220
+Bakı,Hyundai,Elantra,2016,Sedan,Gümüşü,1.6 L/204 a.g./Benzin,114 500 km,Avtomat,Ön,Xeyr,25 500 AZN,,https://turbo.az/autos/8329787-hyundai-elantra
+Bakı,Hyundai,Santa Fe,2014,"Offroader / SUV, 5 qapı",Boz,2.0 L/184 a.g./Dizel,137 km,Avtomat,Ön,Xeyr,30 900 AZN,,https://turbo.az/autos/8381345-hyundai-santa-fe
+Bakı,Mercedes,E 220 d,2013,Sedan,Ağ,2.2 L/170 a.g./Dizel,181 000 km,Avtomat,Arxa,Xeyr,36 040 AZN,,https://turbo.az/autos/8345965-mercedes-e-220-d
+Bakı,Ford,Fusion (North America),2016,Sedan,Ağ,1.5 L/181 a.g./Benzin,186 000 km,Avtomat,Ön,Xeyr,18 500 AZN,,https://turbo.az/autos/8402813-ford-fusion-north-america
+Bakı,Audi,Q7,2019,"Offroader / SUV, 5 qapı",Boz,2.0 L/252 a.g./Benzin,43 000 km,Avtomat,Tam,Xeyr,82 450 AZN,,https://turbo.az/autos/7900536-audi-q7
+Bakı,BMW,530,2017,Sedan,Yaş Asfalt,2.0 L/249 a.g./Benzin,139 000 km,Avtomat,Arxa,Xeyr,46 750 AZN,,https://turbo.az/autos/8402302-bmw-530
+Bakı,Ford,Fusion (North America),2017,Sedan,Yaş Asfalt,1.5 L/184 a.g./Benzin,98 000 km,Avtomat,Ön,Xeyr,19 400 AZN,,https://turbo.az/autos/8313435-ford-fusion-north-america
+Bakı,Chevrolet,Cruze,2015,Sedan,Yaş Asfalt,1.4 L/140 a.g./Benzin,135 800 km,Avtomat,Ön,Xeyr,14 300 AZN,,https://turbo.az/autos/8408418-chevrolet-cruze
+Bakı,Lexus,ES 300h,2020,Sedan,Yaş Asfalt,2.5 L/215 a.g./Hibrid,45 000 km,Avtomat,Ön,Xeyr,61 030 AZN,,https://turbo.az/autos/8391400-lexus-es-300h
+Bakı,BMW,530,2018,Sedan,Ağ,2.0 L/249 a.g./Benzin,61 000 km,Avtomat,Arxa,Xeyr,63 240 AZN,,https://turbo.az/autos/8358286-bmw-530
+Bakı,Land Rover,Defender,2020,"Offroader / SUV, 5 qapı",Qara,2.0 L/240 a.g./Dizel,54 000 km,Avtomat,Tam,Xeyr,151 300 AZN,,https://turbo.az/autos/8264727-land-rover-defender
+Bakı,Suzuki,Kizashi,2011,Sedan,Qara,2.4 L/178 a.g./Benzin,125 000 km,Avtomat,Tam,Xeyr,15 000 AZN,,https://turbo.az/autos/8310652-suzuki-kizashi
+Bakı,Hyundai,Elantra,2015,Sedan,Qara,1.8 L/150 a.g./Benzin,117 000 km,Avtomat,Ön,Xeyr,20 900 AZN,,https://turbo.az/autos/8412989-hyundai-elantra
+Xırdalan,Daewoo,Nexia,1996,Sedan,Tünd qırmızı,1.5 L/90 a.g./Benzin,152 839 km,Mexaniki,Ön,Xeyr,3 000 AZN,,https://turbo.az/autos/8422415-daewoo-nexia
+Bakı,Tofas,Sahin,2004,Sedan,Gümüşü,1.6 L/92 a.g./Benzin,138 000 km,Mexaniki,Arxa,Xeyr,5 900 AZN,,https://turbo.az/autos/8422418-tofas-sahin
+Bakı,BMW,X7,2021,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Benzin,40 600 km,Avtomat,Tam,Xeyr,173 400 AZN,,https://turbo.az/autos/8422419-bmw-x7
+Bakı,Land Rover,Range Rover,2017,"Offroader / SUV, 5 qapı",Ağ,3.0 L/360 a.g./Benzin,140 000 km,Avtomat,Tam,Xeyr,98 600 AZN,,https://turbo.az/autos/7844797-land-rover-range-rover
+Bakı,Toyota,Highlander,2023,"Offroader / SUV, 5 qapı",Boz,2.5 L/249 a.g./Hibrid,0 km,Avtomat,Tam,Bəli,90 100 AZN,,https://turbo.az/autos/7476751-toyota-highlander
+Bakı,Toyota,Prius,2008,Liftbek,Yaş Asfalt,1.5 L/76 a.g./Hibrid,322 340 km,Variator,Ön,Xeyr,14 600 AZN,,https://turbo.az/autos/8350185-toyota-prius
+Bakı,Kia,Sorento,2016,"Offroader / SUV, 5 qapı",Qəhvəyi,2.0 L/265 a.g./Benzin,109 000 km,Avtomat,Ön,Xeyr,32 000 AZN,,https://turbo.az/autos/8405350-kia-sorento
+Bakı,Volkswagen,Tiguan,2018,"Offroader / SUV, 5 qapı",Göy,2.0 L/180 a.g./Benzin,35 000 km,Avtomat,Ön,Xeyr,37 230 AZN,,https://turbo.az/autos/8356514-volkswagen-tiguan
+Bakı,Mercedes,C 200,1999,Sedan,Yaş Asfalt,2.0 L/136 a.g./Benzin,501 365 km,Avtomat,Arxa,Xeyr,11 600 AZN,,https://turbo.az/autos/8307153-mercedes-c-200
+Bakı,Mercedes,E 300 e,2021,Sedan,Qara,2.0 L/320 a.g./Plug-in Hibrid,21 400 km,Avtomat,Arxa,Xeyr,75 650 AZN,,https://turbo.az/autos/8263091-mercedes-e-300-e
+Bakı,Hyundai,Tucson,2015,"Offroader / SUV, 5 qapı",Ağ,1.7 L/115 a.g./Dizel,138 000 km,Avtomat,Ön,Xeyr,29 500 AZN,,https://turbo.az/autos/8413143-hyundai-tucson
+Bakı,Kia,Sorento,2014,"Offroader / SUV, 5 qapı",Qara,2.0 L/184 a.g./Dizel,242 731 km,Avtomat,Tam,Xeyr,30 500 AZN,,https://turbo.az/autos/8221364-kia-sorento
+Masallı,Mercedes,C 180,2001,Sedan,Gümüşü,2.0 L/129 a.g./Benzin,288 775 km,Avtomat,Arxa,Xeyr,12 300 AZN,,https://turbo.az/autos/8325181-mercedes-c-180
+Bakı,Chery,Tiggo 7 Pro e+	,2023,"Offroader / SUV, 5 qapı",Boz,1.5 L/326 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,49 900 AZN,,https://turbo.az/autos/7734461-chery-tiggo-7-pro-e
+Bakı,XPeng,P7,2023,Liftbek,Ağ,0.0 L/473 a.g./Elektro,0 km,Reduktor,Tam,Bəli,83 130 AZN,,https://turbo.az/autos/7996726-xpeng-p7
+Bakı,Mercedes,GLB 200,2023,"Offroader / SUV, 5 qapı",Qara,1.5 L/163 a.g./Benzin,0 km,Avtomat,Tam,Bəli,109 103 AZN,,https://turbo.az/autos/8097634-mercedes-glb-200
+Bakı,Volkswagen,Tayron,2023,"Offroader / SUV, 5 qapı",Ağ,1.4 L/218 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,62 900 AZN,,https://turbo.az/autos/7610234-volkswagen-tayron
+Bakı,BMW,320,2015,Sedan,Qara,2.0 L/184 a.g./Benzin,160 000 km,Avtomat,Arxa,Xeyr,29 750 AZN,,https://turbo.az/autos/8389558-bmw-320
+Bakı,ZEEKR,001,2024,Liftbek,Narıncı,0.0 L/544 a.g./Elektro,0 km,Reduktor,Tam,Bəli,84 998 AZN,,https://turbo.az/autos/8392232-zeekr-001
+Bakı,LADA (VAZ),Niva,2000,"Offroader / SUV, 3 qapı",Göy,1.7 L/80 a.g./Benzin,333 400 km,Mexaniki,Tam,Xeyr,5 000 AZN,,https://turbo.az/autos/8356691-lada-vaz-niva
+Bakı,Mercedes,E 250 4MATIC,2014,Sedan,Qara,2.2 L/204 a.g./Dizel,152 000 km,Avtomat,Tam,Xeyr,37 060 AZN,,https://turbo.az/autos/8306995-mercedes-e-250-4matic
+Bakı,Hyundai,Santa Fe,2009,"Offroader / SUV, 5 qapı",Ağ,2.7 L/185 a.g./Benzin,361 473 km,Avtomat,Tam,Xeyr,20 000 AZN,,https://turbo.az/autos/8345183-hyundai-santa-fe
+Bakı,Audi,Q5,2013,"Offroader / SUV, 5 qapı",Qara,2.0 L/211 a.g./Benzin,167 300 km,Avtomat,Tam,Xeyr,31 300 AZN,,https://turbo.az/autos/8167189-audi-q5
+Bakı,BMW,528,2014,Sedan,Gümüşü,2.0 L/245 a.g./Benzin,118 000 km,Avtomat,Arxa,Xeyr,36 500 AZN,,https://turbo.az/autos/8345395-bmw-528
+Bakı,Skoda,Kodiaq,2020,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.4 L/125 a.g./Benzin,30 000 km,Avtomat,Ön,Xeyr,40 800 AZN,,https://turbo.az/autos/8244423-skoda-kodiaq
+Bakı,Hyundai,Avante,2014,Sedan,Gümüşü,1.6 L/132 a.g./Dizel,167 260 km,Avtomat,Ön,Xeyr,21 600 AZN,,https://turbo.az/autos/8204247-hyundai-avante
+Bakı,Kia,Sorento,2017,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/186 a.g./Dizel,163 000 km,Avtomat,Ön,Xeyr,37 800 AZN,,https://turbo.az/autos/8393654-kia-sorento
+Bakı,Land Rover,Range Rover,2018,"Offroader / SUV, 5 qapı",Ağ,3.0 L/340 a.g./Benzin,128 000 km,Avtomat,Tam,Xeyr,116 450 AZN,,https://turbo.az/autos/8410102-land-rover-range-rover
+Bakı,Toyota,Land Cruiser Prado,2010,"Offroader / SUV, 5 qapı",Qara,4.0 L/282 a.g./Benzin,235 000 km,Avtomat,Tam,Xeyr,38 250 AZN,,https://turbo.az/autos/8378905-toyota-land-cruiser-prado
+Bakı,LADA (VAZ),2107,2008,Sedan,Göy,1.6 L/75 a.g./Benzin,55 800 km,Mexaniki,Arxa,Xeyr,6 800 AZN,,https://turbo.az/autos/8418504-lada-vaz-2107
+Bakı,Kia,Cerato,2014,Sedan,Ağ,1.6 L/130 a.g./Benzin,210 053 km,Avtomat,Ön,Xeyr,21 000 AZN,,https://turbo.az/autos/8161303-kia-cerato
+Bakı,Land Rover,Range Rover,2024,"Offroader / SUV, 5 qapı",Qara,4.4 L/530 a.g./Benzin,0 km,Avtomat,Tam,Bəli,553 443 AZN,,https://turbo.az/autos/7973855-land-rover-range-rover
+Bakı,BMW,530,2018,Sedan,Ağ,2.0 L/249 a.g./Benzin,150 000 km,Avtomat,Arxa,Xeyr,49 500 AZN,,https://turbo.az/autos/8422376-bmw-530
+Bakı,Chevrolet,Cruze,2015,Sedan,Boz,1.4 L/141 a.g./Benzin,140 000 km,Avtomat,Ön,Xeyr,17 500 AZN,,https://turbo.az/autos/8329880-chevrolet-cruze
+Bakı,Kia,Stinger,2018,Liftbek,Yaşıl,2.0 L/247 a.g./Benzin,118 000 km,Avtomat,Arxa,Xeyr,45 000 AZN,,https://turbo.az/autos/8315298-kia-stinger
+Zaqatala,BMW,528,2015,Sedan,Qara,2.0 L/245 a.g./Benzin,140 000 km,Avtomat,Tam,Xeyr,31 900 AZN,,https://turbo.az/autos/8212155-bmw-528
+Bakı,Hyundai,Elantra,2018,Sedan,Ağ,2.0 L/150 a.g./Benzin,58 000 km,Avtomat,Ön,Xeyr,24 900 AZN,,https://turbo.az/autos/8337045-hyundai-elantra
+Bakı,Infiniti,FX45,2004,"Offroader / SUV, 5 qapı",Qara,4.5 L/315 a.g./Benzin,266 000 km,Avtomat,Tam,Xeyr,14 700 AZN,,https://turbo.az/autos/8330009-infiniti-fx45
+Şəmkir,Volkswagen,Passat,2008,Sedan,Ağ,2.0 L/200 a.g./Benzin,176 000 km,Avtomat,Ön,Xeyr,10 700 AZN,,https://turbo.az/autos/8410130-volkswagen-passat
+Bakı,Hyundai,Santa Fe,2015,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,144 000 km,Avtomat,Ön,Xeyr,32 800 AZN,,https://turbo.az/autos/8299490-hyundai-santa-fe
+Bakı,IM,LS7,2024,"Offroader / SUV, 5 qapı",Boz,0.0 L/578 a.g./Elektro,0 km,Reduktor,Tam,Bəli,109 990 AZN,,https://turbo.az/autos/8330892-im-ls7
+Bakı,BMW,330,2021,Sedan,Açıq yaşıl,2.0 L/258 a.g./Benzin,31 500 km,Avtomat,Arxa,Xeyr,63 750 AZN,,https://turbo.az/autos/8306128-bmw-330
+Bakı,LADA (VAZ),2115,2011,Sedan,Qara,1.6 L/80 a.g./Benzin,110 000 km,Mexaniki,Ön,Xeyr,5 000 AZN,,https://turbo.az/autos/8379254-lada-vaz-2115
+Bakı,Hyundai,Sonata,2014,Sedan,Ağ,2.4 L/180 a.g./Benzin,162 000 km,Avtomat,Ön,Xeyr,25 900 AZN,,https://turbo.az/autos/8350116-hyundai-sonata
+Bakı,Hongqi,H5,2023,Sedan,Qara,1.5 L/190 a.g./Hibrid,0 km,Avtomat,Ön,Bəli,54 900 AZN,,https://turbo.az/autos/8184637-hongqi-h5
+Bakı,IM,LS6,2024,"Offroader / SUV, 5 qapı",Bej,0.0 L/314 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,67 490 AZN,,https://turbo.az/autos/8354312-im-ls6
+Bakı,Porsche,Panamera,2022,Liftbek,Qara,3.0 L/330 a.g./Benzin,14 000 km,Robot,Tam,Xeyr,184 450 AZN,,https://turbo.az/autos/8246847-porsche-panamera
+Bakı,Toyota,RAV4,2022,"Offroader / SUV, 5 qapı",Gümüşü,2.0 L/149 a.g./Benzin,27 000 km,Avtomat,Tam,Xeyr,49 300 AZN,,https://turbo.az/autos/8022314-toyota-rav4
+Bakı,Nissan,Xterra,2020,"Offroader / SUV, 5 qapı",Qara,2.5 L/165 a.g./Benzin,73 000 km,Avtomat,Arxa,Xeyr,55 500 AZN,,https://turbo.az/autos/8219876-nissan-xterra
+Sumqayıt,Kia,Sorento,2016,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/184 a.g./Dizel,80 000 km,Avtomat,Ön,Xeyr,41 500 AZN,,https://turbo.az/autos/8390292-kia-sorento
+Bakı,Hyundai,Santa Fe,2015,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,159 000 km,Avtomat,Ön,Xeyr,37 500 AZN,,https://turbo.az/autos/8408229-hyundai-santa-fe
+Bakı,Mercedes,S 350 d,2015,Sedan,Qara,3.0 L/249 a.g./Dizel,100 001 km,Avtomat,Arxa,Xeyr,96 560 AZN,,https://turbo.az/autos/8321655-mercedes-s-350-d
+Bakı,Toyota,bZ3,2023,Sedan,Boz,0.0 L/245 a.g./Elektro,0 km,Reduktor,Ön,Bəli,41 310 AZN,,https://turbo.az/autos/8379402-toyota-bz3
+Bakı,Kia,Morning,2021,"Hetçbek, 5 qapı",Yaş Asfalt,1.0 L/82 a.g./Benzin,26 000 km,Avtomat,Ön,Xeyr,19 500 AZN,,https://turbo.az/autos/8333834-kia-morning
+Bakı,Hyundai,Grandeur,2014,Sedan,Qara,2.2 L/202 a.g./Dizel,144 000 km,Avtomat,Ön,Xeyr,32 900 AZN,,https://turbo.az/autos/8364918-hyundai-grandeur
+Bakı,Toyota,Harrier,2023,"Offroader / SUV, 5 qapı",Ağ,2.5 L/218 a.g./Hibrid,0 km,Avtomat,Ön,Bəli,74 798 AZN,,https://turbo.az/autos/7975946-toyota-harrier
+Bakı,Li Auto,L9,2024,"Offroader / SUV, 5 qapı",Qara,1.5 L/449 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,110 330 AZN,,https://turbo.az/autos/8406456-li-auto-l9
+Bakı,BMW,530e,2022,Sedan,Boz,2.0 L/300 a.g./Plug-in Hibrid,22 000 km,Avtomat,Arxa,Xeyr,101 150 AZN,,https://turbo.az/autos/8273656-bmw-530e
+Bakı,BMW,X5,2010,"Offroader / SUV, 5 qapı",Qara,3.0 L/306 a.g./Benzin,220 000 km,Avtomat,Tam,Xeyr,39 950 AZN,,https://turbo.az/autos/7908383-bmw-x5
+Bakı,BMW,530,2018,Sedan,Yaş Asfalt,2.0 L/249 a.g./Benzin,68 437 km,Avtomat,Arxa,Xeyr,56 950 AZN,,https://turbo.az/autos/8378213-bmw-530
+Bakı,Skoda,Karoq,2023,"Offroader / SUV, 5 qapı",Boz,1.4 L/150 a.g./Benzin,24 063 km,Avtomat,Ön,Xeyr,45 500 AZN,,https://turbo.az/autos/8269431-skoda-karoq
+Bakı,Toyota,Land Cruiser Prado,2011,"Offroader / SUV, 5 qapı",Ağ,2.7 L/163 a.g./Benzin,170 000 km,Avtomat,Tam,Xeyr,39 700 AZN,,https://turbo.az/autos/8408938-toyota-land-cruiser-prado
+Bakı,Hyundai,Santa Fe,2013,"Offroader / SUV, 5 qapı",Bej,2.0 L/184 a.g./Dizel,206 000 km,Avtomat,Ön,Xeyr,29 900 AZN,,https://turbo.az/autos/8362418-hyundai-santa-fe
+Bakı,Land Rover,RR Sport,2013,"Offroader / SUV, 5 qapı",Boz,5.0 L/510 a.g./Benzin,144 000 km,Avtomat,Tam,Xeyr,67 660 AZN,,https://turbo.az/autos/8353205-land-rover-rr-sport
+Bakı,Hyundai,Elantra,2015,Sedan,Yaş Asfalt,1.8 L/150 a.g./Benzin,127 187 km,Avtomat,Ön,Xeyr,21 500 AZN,,https://turbo.az/autos/8401202-hyundai-elantra
+Bakı,Infiniti,FX35,2011,"Offroader / SUV, 5 qapı",Qəhvəyi,3.5 L/303 a.g./Benzin,115 000 km,Avtomat,Tam,Xeyr,36 210 AZN,,https://turbo.az/autos/8418952-infiniti-fx35
+Sumqayıt,Kia,Sportage,2015,"Offroader / SUV, 5 qapı",Göy,2.0 L/184 a.g./Dizel,122 882 km,Avtomat,Ön,Xeyr,32 900 AZN,,https://turbo.az/autos/8258970-kia-sportage
+Bakı,Audi,A7,2018,Liftbek,Qara,3.0 L/338 a.g./Benzin,80 000 km,Avtomat,Tam,Xeyr,65 450 AZN,,https://turbo.az/autos/8092933-audi-a7
+Bakı,Audi,Q7,2019,"Offroader / SUV, 5 qapı",Ağ,2.0 L/252 a.g./Benzin,87 000 km,Avtomat,Tam,Xeyr,62 560 AZN,,https://turbo.az/autos/8365402-audi-q7
+Bakı,Ford,Fusion (North America),2015,Sedan,Qara,1.5 L/181 a.g./Benzin,195 000 km,Avtomat,Ön,Xeyr,20 900 AZN,,https://turbo.az/autos/7802733-ford-fusion-north-america
+Bakı,Chevrolet,Volt,2011,Liftbek,Ağ,1.4 L/84 a.g./Plug-in Hibrid,130 000 km,Variator,Ön,Xeyr,20 400 AZN,,https://turbo.az/autos/8029596-chevrolet-volt
+Bakı,Kia,Sorento,2023,"Offroader / SUV, 5 qapı",Ağ,1.6 L/230 a.g./Hibrid,1 400 km,Avtomat,Ön,Xeyr,84 490 AZN,,https://turbo.az/autos/8392544-kia-sorento
+Bakı,Ford,Fusion (North America),2020,Sedan,Qara,1.5 L/184 a.g./Benzin,82 000 km,Avtomat,Ön,Xeyr,25 600 AZN,,https://turbo.az/autos/8404647-ford-fusion-north-america
+Bakı,Hyundai,Sonata,2020,Sedan,Ağ,1.6 L/183 a.g./Benzin,42 856 km,Avtomat,Ön,Xeyr,44 030 AZN,,https://turbo.az/autos/8347001-hyundai-sonata
+Bakı,Lexus,ES 300h,2022,Sedan,Qara,2.5 L/218 a.g./Hibrid,23 000 km,Avtomat,Ön,Xeyr,67 150 AZN,,https://turbo.az/autos/7975740-lexus-es-300h
+Gəncə,Ford,Fusion (North America),2017,Sedan,Qara,1.5 L/181 a.g./Benzin,152 888 km,Avtomat,Ön,Xeyr,22 500 AZN,,https://turbo.az/autos/8403512-ford-fusion-north-america
+Bakı,Changan,Uni-V,2023,Liftbek,Yaş Asfalt,1.5 L/180 a.g./Benzin,10 000 km,Avtomat,Ön,Xeyr,39 500 AZN,,https://turbo.az/autos/8191168-changan-uni-v
+Bakı,Toyota,Land Cruiser Prado,2011,"Offroader / SUV, 5 qapı",Yaş Asfalt,4.0 L/282 a.g./Benzin,96 000 km,Avtomat,Tam,Xeyr,66 300 AZN,,https://turbo.az/autos/8415470-toyota-land-cruiser-prado
+Bakı,Lynk & Co,08,2023,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/593 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,79 730 AZN,,https://turbo.az/autos/8327783-lynk-co-08
+Bakı,Toyota,Land Cruiser Prado,2010,"Offroader / SUV, 5 qapı",Qara,2.7 L/163 a.g./Benzin,187 000 km,Avtomat,Tam,Xeyr,39 500 AZN,,https://turbo.az/autos/7959842-toyota-land-cruiser-prado
+Bakı,LADA (VAZ),Niva,2024,"Offroader / SUV, 3 qapı",Ağ,1.7 L/83 a.g./Benzin,0 km,Mexaniki,Tam,Bəli,20 500 AZN,,https://turbo.az/autos/8366273-lada-vaz-niva
+Bakı,Lynk & Co,03,2024,Sedan,Yaş Asfalt,2.0 L/218 a.g./Benzin,0 km,Avtomat,Ön,Bəli,54 230 AZN,,https://turbo.az/autos/8197237-lynk-co-03
+Bakı,Haval,H6,2019,"Offroader / SUV, 5 qapı",Qara,2.0 L/224 a.g./Benzin,165 km,Avtomat,Ön,Xeyr,30 900 AZN,,https://turbo.az/autos/8422195-haval-h6
+Bakı,Hyundai,Elantra,2021,Sedan,Gümüşü,1.6 L/140 a.g./Hibrid,56 200 km,Avtomat,Ön,Xeyr,35 000 AZN,,https://turbo.az/autos/8406286-hyundai-elantra
+Bakı,Toyota,Camry,2019,Sedan,Qara,2.5 L/184 a.g./Benzin,110 000 km,Avtomat,Ön,Xeyr,42 330 AZN,,https://turbo.az/autos/8387097-toyota-camry
+Bakı,Land Rover,Range Rover,2014,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Benzin,166 000 km,Avtomat,Tam,Xeyr,76 500 AZN,,https://turbo.az/autos/8388209-land-rover-range-rover
+Bakı,Toyota,Land Cruiser,2021,"Offroader / SUV, 5 qapı",Qara,3.5 L/415 a.g./Benzin,70 000 km,Avtomat,Tam,Xeyr,143 650 AZN,,https://turbo.az/autos/8411168-toyota-land-cruiser
+Bakı,Opel,Astra,2011,"Hetçbek, 5 qapı",Ağ,1.6 L/115 a.g./Benzin,222 000 km,Avtomat,Ön,Xeyr,13 800 AZN,,https://turbo.az/autos/8387143-opel-astra
+Bakı,Hyundai,Elantra,2014,Sedan,Ağ,1.8 L/150 a.g./Benzin,181 000 km,Avtomat,Ön,Xeyr,25 000 AZN,,https://turbo.az/autos/8375608-hyundai-elantra
+Bakı,Maple,X3 Pro,2024,"Offroader / SUV, 5 qapı",Qırmızı,1.5 L/110 a.g./Benzin,0 km,Avtomat,Ön,Bəli,25 900 AZN,,https://turbo.az/autos/7541765-maple-x3-pro
+Bakı,Toyota,Prius,2008,Liftbek,Ağ,1.5 L/76 a.g./Hibrid,356 000 km,Variator,Ön,Xeyr,11 900 AZN,,https://turbo.az/autos/8280797-toyota-prius
+Bakı,Toyota,Highlander,2023,"Offroader / SUV, 5 qapı",Qara,2.5 L/249 a.g./Hibrid,0 km,Avtomat,Tam,Bəli,98 430 AZN,,https://turbo.az/autos/8165261-toyota-highlander
+Bakı,Volvo,XC60,2023,"Offroader / SUV, 5 qapı",Göy,2.0 L/455 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,111 158 AZN,,https://turbo.az/autos/8370549-volvo-xc60
+Bakı,Hyundai,Elantra,2022,Sedan,Yaş Asfalt,1.6 L/132 a.g./Benzin,37 000 km,Avtomat,Ön,Xeyr,37 500 AZN,,https://turbo.az/autos/7639293-hyundai-elantra
+Bakı,Toyota,Prius,2009,Liftbek,Yaş Asfalt,1.8 L/99 a.g./Hibrid,305 695 km,Variator,Ön,Xeyr,18 000 AZN,,https://turbo.az/autos/8237684-toyota-prius
+Bakı,BMW,528,2014,Sedan,Göy,2.0 L/245 a.g./Benzin,118 000 km,Avtomat,Arxa,Xeyr,37 230 AZN,,https://turbo.az/autos/8389655-bmw-528
+Bakı,BMW,528,2014,Sedan,Yaş Asfalt,2.0 L/245 a.g./Benzin,198 047 km,Avtomat,Arxa,Xeyr,29 000 AZN,,https://turbo.az/autos/8374102-bmw-528
+Bakı,LADA (VAZ),Niva,2015,"Offroader / SUV, 3 qapı",Göy,1.7 L/80 a.g./Benzin,140 000 km,Mexaniki,Tam,Xeyr,11 700 AZN,,https://turbo.az/autos/8413924-lada-vaz-niva
+Bakı,Kia,Sorento,2013,"Offroader / SUV, 5 qapı",Ağ,2.4 L/177 a.g./Benzin,206 000 km,Avtomat,Tam,Xeyr,31 400 AZN,,https://turbo.az/autos/8373225-kia-sorento
+Bakı,Mercedes,CLA 250,2016,Sedan,Ağ,2.0 L/211 a.g./Benzin,114 000 km,Avtomat,Tam,Xeyr,38 250 AZN,,https://turbo.az/autos/8361833-mercedes-cla-250
+Bakı,Lexus,GS 200t,2016,Sedan,Boz,2.0 L/245 a.g./Benzin,112 000 km,Avtomat,Arxa,Xeyr,46 325 AZN,,https://turbo.az/autos/7922222-lexus-gs-200t
+Ağdaş,LADA (VAZ),2107,2005,Sedan,Ağ,1.6 L/75 a.g./Benzin,68 800 km,Mexaniki,Arxa,Xeyr,5 800 AZN,,https://turbo.az/autos/8422360-lada-vaz-2107
+Masallı,Toyota,Land Cruiser Prado,2008,"Offroader / SUV, 5 qapı",Ağ,2.7 L/163 a.g./Benzin,248 500 km,Avtomat,Tam,Xeyr,28 000 AZN,,https://turbo.az/autos/8422361-toyota-land-cruiser-prado
+Bakı,Toyota,Camry,2020,Sedan,Qara,2.0 L/150 a.g./Benzin,43 000 km,Avtomat,Ön,Xeyr,45 050 AZN,,https://turbo.az/autos/8401336-toyota-camry
+Bakı,Kia,Cerato,2015,Sedan,Ağ,1.8 L/149 a.g./Benzin,109 000 km,Avtomat,Ön,Xeyr,20 800 AZN,,https://turbo.az/autos/8389065-kia-cerato
+Bakı,Hyundai,Elantra,2017,Sedan,Qara,2.0 L/160 a.g./Benzin,158 900 km,Avtomat,Ön,Xeyr,23 900 AZN,,https://turbo.az/autos/8416866-hyundai-elantra
+Bakı,Hyundai,Elantra,2014,Sedan,Qara,1.8 L/150 a.g./Benzin,115 000 km,Avtomat,Ön,Xeyr,21 400 AZN,,https://turbo.az/autos/8390520-hyundai-elantra
+Bakı,Mercedes,E 300,2018,Sedan,Qara,2.0 L/245 a.g./Benzin,64 121 km,Avtomat,Arxa,Xeyr,59 330 AZN,,https://turbo.az/autos/8122531-mercedes-e-300
+Bakı,Hyundai,Elantra,2017,Sedan,Mavi,2.0 L/150 a.g./Benzin,155 872 km,Avtomat,Ön,Xeyr,25 630 AZN,,https://turbo.az/autos/8377084-hyundai-elantra
+Sumqayıt,Hyundai,i30,2014,"Hetçbek, 5 qapı",Qara,1.6 L/128 a.g./Dizel,185 800 km,Mexaniki,Ön,Xeyr,18 900 AZN,,https://turbo.az/autos/8399034-hyundai-i30
+Bakı,Hyundai,ix35,2012,"Offroader / SUV, 5 qapı",Ağ,2.0 L/163 a.g./Benzin,157 632 km,Avtomat,Tam,Xeyr,24 900 AZN,,https://turbo.az/autos/8361696-hyundai-ix35
+Bakı,Porsche,Panamera GTS,2023,Liftbek,Qara,4.0 L/480 a.g./Benzin,2 500 km,Avtomat,Tam,Xeyr,277 100 AZN,,https://turbo.az/autos/8296193-porsche-panamera-gts
+Bakı,Land Rover,Range Rover,2018,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Dizel,60 000 km,Avtomat,Tam,Xeyr,139 400 AZN,,https://turbo.az/autos/8020036-land-rover-range-rover
+Bakı,Skoda,Octavia,2022,Sedan,Boz,1.6 L/110 a.g./Benzin,0 km,Avtomat,Ön,Bəli,40 900 AZN,,https://turbo.az/autos/6878721-skoda-octavia
+Bakı,Hyundai,Accent,2015,Sedan,Göy,1.6 L/140 a.g./Benzin,189 903 km,Avtomat,Ön,Xeyr,19 900 AZN,,https://turbo.az/autos/8407177-hyundai-accent
+Bakı,Hyundai,Sonata,2018,Sedan,Göy,2.0 L/274 a.g./Benzin,122 402 km,Avtomat,Ön,Xeyr,28 800 AZN,,https://turbo.az/autos/8404190-hyundai-sonata
+Bakı,Infiniti,Q50,2022,Sedan,Göy,3.0 L/304 a.g./Benzin,15 000 km,Avtomat,Arxa,Xeyr,50 830 AZN,,https://turbo.az/autos/8296751-infiniti-q50
+Bakı,Toyota,Land Cruiser Prado,2013,"Offroader / SUV, 5 qapı",Ağ,2.7 L/163 a.g./Benzin,125 000 km,Avtomat,Tam,Xeyr,53 890 AZN,,https://turbo.az/autos/8355929-toyota-land-cruiser-prado
+Bakı,Hyundai,Sonata,2007,Sedan,Ağ,2.4 L/174 a.g./Benzin,297 000 km,Avtomat,Ön,Xeyr,13 900 AZN,,https://turbo.az/autos/8419250-hyundai-sonata
+Bakı,BMW,725,1996,Sedan,Gümüşü,2.5 L/143 a.g./Dizel,398 000 km,Mexaniki,Arxa,Xeyr,8 500 AZN,,https://turbo.az/autos/8320592-bmw-725
+Bakı,Skoda,Karoq,2022,"Offroader / SUV, 5 qapı",Qara,1.6 L/110 a.g./Benzin,20 100 km,Avtomat,Tam,Xeyr,39 900 AZN,,https://turbo.az/autos/8326094-skoda-karoq
+Bakı,Kia,Ceed,2007,"Hetçbek, 5 qapı",Qara,1.4 L/109 a.g./Benzin,135 127 km,Mexaniki,Ön,Xeyr,10 500 AZN,,https://turbo.az/autos/8372552-kia-ceed
+Bakı,Chevrolet,Aveo,2014,"Hetçbek, 5 qapı",Qırmızı,1.6 L/115 a.g./Benzin,154 000 km,Avtomat,Ön,Xeyr,12 800 AZN,,https://turbo.az/autos/8372802-chevrolet-aveo
+Bakı,Hyundai,Santa Fe,2012,"Offroader / SUV, 5 qapı",Qara,2.0 L/184 a.g./Dizel,224 000 km,Avtomat,Ön,Xeyr,32 500 AZN,,https://turbo.az/autos/8020394-hyundai-santa-fe
+Bakı,Hyundai,Tucson,2015,"Offroader / SUV, 5 qapı",Gümüşü,2.0 L/184 a.g./Dizel,168 095 km,Avtomat,Ön,Xeyr,26 000 AZN,,https://turbo.az/autos/8363975-hyundai-tucson
+Sumqayıt,Nissan,Tiida,2011,"Hetçbek, 5 qapı",Gümüşü,1.5 L/109 a.g./Benzin,87 017 km,Avtomat,Ön,Xeyr,14 300 AZN,,https://turbo.az/autos/8394150-nissan-tiida
+Bakı,IM,LS7,2024,"Offroader / SUV, 5 qapı",Qara,0.0 L/578 a.g./Elektro,0 km,Reduktor,Tam,Bəli,109 990 AZN,,https://turbo.az/autos/8354613-im-ls7
+Bakı,LADA (VAZ),Niva,2023,"Offroader / SUV, 3 qapı",Qara,1.7 L/83 a.g./Benzin,0 km,Mexaniki,Tam,Bəli,19 000 AZN,,https://turbo.az/autos/7423943-lada-vaz-niva
+Sumqayıt,Kia,Cerato,2023,Sedan,Yaş Asfalt,2.0 L/150 a.g./Benzin,0 km,Avtomat,Ön,Bəli,42 900 AZN,,https://turbo.az/autos/7357436-kia-cerato
+Bakı,Hyundai,Santa Fe,2017,"Offroader / SUV, 5 qapı",Boz,2.0 L/240 a.g./Benzin,111 000 km,Avtomat,Tam,Xeyr,36 500 AZN,,https://turbo.az/autos/8332849-hyundai-santa-fe
+Bakı,Toyota,Land Cruiser Prado,2008,"Offroader / SUV, 5 qapı",Qara,2.7 L/163 a.g./Benzin,199 500 km,Avtomat,Tam,Xeyr,35 300 AZN,,https://turbo.az/autos/8414939-toyota-land-cruiser-prado
+Bakı,Porsche,Panamera 4S,2011,Liftbek,Qara,4.8 L/400 a.g./Benzin,69 900 km,Robot,Tam,Xeyr,54 400 AZN,,https://turbo.az/autos/8284273-porsche-panamera-4s
+Bakı,BMW,525,2013,Sedan,Ağ,2.0 L/245 a.g./Benzin,218 871 km,Avtomat,Arxa,Xeyr,23 500 AZN,,https://turbo.az/autos/8412960-bmw-525
+Bakı,Mercedes,E 220 d,2006,Sedan,Qara,2.2 L/150 a.g./Dizel,287 000 km,Avtomat,Arxa,Xeyr,25 500 AZN,,https://turbo.az/autos/8401467-mercedes-e-220-d
+Bakı,Nissan,Note,2012,"Hetçbek, 5 qapı",Qırmızı,1.2 L/98 a.g./Benzin,63 000 km,Avtomat,Ön,Xeyr,12 400 AZN,,https://turbo.az/autos/8413250-nissan-note
+Bakı,Changan,CS 75 Plus,2023,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/347 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,47 260 AZN,,https://turbo.az/autos/8404620-changan-cs-75-plus
+Bakı,Kia,Picanto,2015,"Hetçbek, 5 qapı",Bej,1.0 L/69 a.g./Benzin,82 717 km,Avtomat,Ön,Xeyr,15 600 AZN,,https://turbo.az/autos/8392675-kia-picanto
+Bakı,Land Rover,Defender,2023,"Offroader / SUV, 5 qapı",Qara,3.0 L/400 a.g./Benzin,0 km,Avtomat,Tam,Bəli,209 780 AZN,,https://turbo.az/autos/8209151-land-rover-defender
+Bakı,Toyota,Corolla,2015,Sedan,Ağ,1.6 L/124 a.g./Benzin,155 365 km,Avtomat,Ön,Xeyr,24 900 AZN,,https://turbo.az/autos/8394240-toyota-corolla
+Bakı,Audi,A6,2015,Sedan,Yaş Asfalt,2.0 L/252 a.g./Benzin,182 000 km,Avtomat,Ön,Xeyr,26 500 AZN,,https://turbo.az/autos/8411904-audi-a6
+Bakı,Toyota,Land Cruiser,2008,"Offroader / SUV, 5 qapı",Ağ,4.0 L/275 a.g./Benzin,207 000 km,Avtomat,Tam,Xeyr,43 350 AZN,,https://turbo.az/autos/8404492-toyota-land-cruiser
+Bakı,Land Rover,Range Rover,2023,"Offroader / SUV, 5 qapı",Qara,4.4 L/530 a.g./Benzin,0 km,Avtomat,Tam,Bəli,399 500 AZN,,https://turbo.az/autos/8321552-land-rover-range-rover
+Bakı,Toyota,Land Cruiser,2013,"Offroader / SUV, 5 qapı",Qara,4.0 L/282 a.g./Benzin,48 000 km,Avtomat,Tam,Xeyr,76 000 AZN,,https://turbo.az/autos/8383927-toyota-land-cruiser
+Bakı,Kia,Sorento,2012,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,212 000 km,Avtomat,Ön,Xeyr,31 500 AZN,,https://turbo.az/autos/8410083-kia-sorento
+Bakı,Toyota,Land Cruiser,2019,"Offroader / SUV, 5 qapı",Qara,4.5 L/235 a.g./Dizel,99 800 km,Avtomat,Tam,Xeyr,138 550 AZN,,https://turbo.az/autos/8121351-toyota-land-cruiser
+Bakı,Lexus,LX 600,2023,"Offroader / SUV, 5 qapı",Qara,3.5 L/415 a.g./Benzin,8 800 km,Avtomat,Tam,Xeyr,271 150 AZN,,https://turbo.az/autos/7528739-lexus-lx-600
+Bakı,Nissan,Micra,2014,"Hetçbek, 5 qapı",Yaşıl,1.2 L/80 a.g./Benzin,16 681 km,Avtomat,Ön,Xeyr,14 500 AZN,,https://turbo.az/autos/8001318-nissan-micra
+Bakı,Jeep,Grand Cherokee,2022,"Offroader / SUV, 5 qapı",Göy,2.0 L/272 a.g./Benzin,0 km,Avtomat,Tam,Bəli,110 330 AZN,,https://turbo.az/autos/7457193-jeep-grand-cherokee
+Bakı,Hycan,A06,2024,Sedan,Qara,0.0 L/214 a.g./Elektro,0 km,Reduktor,Ön,Bəli,53 500 AZN,,https://turbo.az/autos/8388751-hycan-a06
+Bakı,Lexus,LX 570,2009,"Offroader / SUV, 5 qapı",Ağ,5.7 L/383 a.g./Benzin,112 000 km,Avtomat,Tam,Xeyr,53 550 AZN,,https://turbo.az/autos/8419057-lexus-lx-570
+Bakı,BMW,740,2018,Sedan,Qara,3.0 L/326 a.g./Benzin,50 200 km,Avtomat,Arxa,Xeyr,88 400 AZN,,https://turbo.az/autos/8344251-bmw-740
+Bakı,Hyundai,Accent,2018,Sedan,Göy,1.6 L/140 a.g./Benzin,96 000 km,Avtomat,Ön,Xeyr,23 700 AZN,,https://turbo.az/autos/8089889-hyundai-accent
+Bakı,Mercedes,E 220 d,2016,Sedan,Qara,2.2 L/170 a.g./Dizel,281 000 km,Avtomat,Arxa,Xeyr,54 777 AZN,,https://turbo.az/autos/8374199-mercedes-e-220-d
+Bakı,Ford,Fusion (North America),2020,Sedan,Gümüşü,1.5 L/184 a.g./Benzin,142 000 km,Avtomat,Ön,Xeyr,23 400 AZN,,https://turbo.az/autos/8415428-ford-fusion-north-america
+Bakı,Nissan,Note,2017,"Hetçbek, 5 qapı",Ağ,1.2 L/136 a.g./Hibrid,53 700 km,Avtomat,Ön,Xeyr,21 200 AZN,,https://turbo.az/autos/8386634-nissan-note
+Bakı,Opel,Astra,2008,"Hetçbek, 5 qapı",Yaşıl,1.4 L/90 a.g./Benzin,230 000 km,Mexaniki,Ön,Xeyr,12 500 AZN,,https://turbo.az/autos/8339001-opel-astra
+Bakı,Mercedes,CLA 250 e,2021,Sedan,Boz,2.0 L/260 a.g./Plug-in Hibrid,19 500 km,Avtomat,Ön,Xeyr,73 100 AZN,,https://turbo.az/autos/8407776-mercedes-cla-250-e
+Bakı,Toyota,RAV4,2019,"Offroader / SUV, 5 qapı",Göy,2.0 L/180 a.g./Benzin,190 000 km,Avtomat,Ön,Xeyr,39 950 AZN,,https://turbo.az/autos/7404003-toyota-rav4
+Bakı,Hyundai,Elantra,2014,Sedan,Göy,1.8 L/150 a.g./Benzin,130 357 km,Avtomat,Ön,Xeyr,22 200 AZN,,https://turbo.az/autos/8385500-hyundai-elantra
+Bakı,GAZ,24,1981,Sedan,Ağ,2.5 L/85 a.g./Benzin,70 440 km,Mexaniki,Arxa,Xeyr,25 500 AZN,,https://turbo.az/autos/8102774-gaz-24
+Bakı,Ford,Explorer,2020,"Offroader / SUV, 5 qapı",Göy,2.3 L/300 a.g./Benzin,65 000 km,Avtomat,Tam,Xeyr,56 950 AZN,,https://turbo.az/autos/8410957-ford-explorer
+Bakı,Land Rover,Discovery,2012,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Dizel,204 000 km,Avtomat,Tam,Xeyr,41 650 AZN,,https://turbo.az/autos/7444606-land-rover-discovery
+Bakı,Mercedes,CLA 200,2017,Sedan,Yaş Asfalt,1.6 L/150 a.g./Benzin,79 000 km,Avtomat,Arxa,Xeyr,42 498 AZN,,https://turbo.az/autos/8413511-mercedes-cla-200
+Bakı,Hyundai,Santa Fe,2016,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,150 000 km,Avtomat,Ön,Xeyr,37 500 AZN,,https://turbo.az/autos/8156831-hyundai-santa-fe
+Bakı,BMW,X7,2020,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Benzin,102 000 km,Avtomat,Tam,Xeyr,127 500 AZN,,https://turbo.az/autos/8341119-bmw-x7
+Bakı,Kia,Sorento,2018,"Offroader / SUV, 5 qapı",Göy,2.0 L/180 a.g./Dizel,85 650 km,Avtomat,Ön,Xeyr,52 800 AZN,,https://turbo.az/autos/8415531-kia-sorento
+Bakı,Chevrolet,Camaro,2012,Kupe,Qara,3.6 L/328 a.g./Benzin,171 000 km,Avtomat,Arxa,Xeyr,32 400 AZN,,https://turbo.az/autos/8406837-chevrolet-camaro
+Bakı,Toyota,Camry,2018,Sedan,Göy,2.5 L/205 a.g./Benzin,141 000 km,Avtomat,Ön,Xeyr,39 950 AZN,,https://turbo.az/autos/8375594-toyota-camry
+Bakı,BMW,328,2016,Sedan,Ağ,2.0 L/245 a.g./Benzin,134 000 km,Avtomat,Arxa,Xeyr,32 300 AZN,,https://turbo.az/autos/8160839-bmw-328
+Bakı,Nissan,Note,2015,"Hetçbek, 5 qapı",Göy,1.2 L/98 a.g./Benzin,43 410 km,Avtomat,Ön,Xeyr,14 200 AZN,,https://turbo.az/autos/8350733-nissan-note
+Xırdalan,Mercedes,E 200,1995,Kupe,Gümüşü,2.0 L/136 a.g./Benzin,350 000 km,Avtomat,Arxa,Xeyr,16 000 AZN,,https://turbo.az/autos/8356207-mercedes-e-200
+Bakı,Hyundai,Accent,2016,Sedan,Gümüşü,1.6 L/128 a.g./Dizel,115 000 km,Avtomat,Ön,Xeyr,19 600 AZN,,https://turbo.az/autos/8396438-hyundai-accent
+Bakı,Changan,Eado,2013,Sedan,Ağ,1.6 L/125 a.g./Benzin,285 000 km,Avtomat,Ön,Xeyr,11 000 AZN,,https://turbo.az/autos/8368192-changan-eado
+Bakı,Toyota,Camry,2021,Sedan,Qara,2.5 L/181 a.g./Benzin,41 000 km,Avtomat,Ön,Xeyr,51 850 AZN,,https://turbo.az/autos/7671760-toyota-camry
+Bakı,Land Rover,RR Sport,2023,"Offroader / SUV, 5 qapı",Ağ,3.0 L/300 a.g./Dizel,0 km,Avtomat,Tam,Bəli,259 250 AZN,,https://turbo.az/autos/7795162-land-rover-rr-sport
+Bakı,BMW,X5,2014,"Offroader / SUV, 5 qapı",Ağ,3.0 L/306 a.g./Benzin,149 000 km,Avtomat,Tam,Xeyr,55 930 AZN,,https://turbo.az/autos/8395408-bmw-x5
+Gəncə,Kia,Sorento,2016,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,168 200 km,Avtomat,Ön,Xeyr,36 300 AZN,,https://turbo.az/autos/8422326-kia-sorento
+Bakı,Toyota,Prius,2010,Liftbek,Göy,1.8 L/99 a.g./Hibrid,212 000 km,Variator,Ön,Xeyr,17 200 AZN,,https://turbo.az/autos/8410823-toyota-prius
+Bakı,Mercedes,S 400,2016,Sedan,Qara,3.0 L/340 a.g./Benzin,190 000 km,Avtomat,Arxa,Xeyr,89 250 AZN,,https://turbo.az/autos/8232354-mercedes-s-400
+Bakı,BMW,523,1997,Sedan,Yaşıl,2.5 L/170 a.g./Benzin,418 000 km,Avtomat,Arxa,Xeyr,10 500 AZN,,https://turbo.az/autos/8422327-bmw-523
+Bakı,Nissan,March,2016,"Hetçbek, 5 qapı",Gümüşü,1.2 L/79 a.g./Benzin,35 000 km,Avtomat,Ön,Xeyr,13 800 AZN,,https://turbo.az/autos/8372770-nissan-march
+Bakı,Hyundai,Grandeur,2023,Sedan,Qara,1.6 L/230 a.g./Hibrid,0 km,Avtomat,Ön,Bəli,84 900 AZN,,https://turbo.az/autos/8245969-hyundai-grandeur
+Bakı,Kia,Sorento,2016,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,271 500 km,Avtomat,Ön,Xeyr,36 000 AZN,,https://turbo.az/autos/8406340-kia-sorento
+Bakı,Li Auto,L7,2024,"Offroader / SUV, 5 qapı",Ağ,1.5 L/449 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,91 460 AZN,,https://turbo.az/autos/8412604-li-auto-l7
+Bakı,Lynk & Co,09,2024,"Offroader / SUV, 5 qapı",Qara,2.0 L/254 a.g./Benzin,0 km,Avtomat,Tam,Bəli,79 730 AZN,,https://turbo.az/autos/8190662-lynk-co-09
+Bakı,Hyundai,Genesis,2015,Sedan,Qara,3.0 L/249 a.g./Benzin,144 000 km,Avtomat,Arxa,Xeyr,43 000 AZN,,https://turbo.az/autos/8364346-hyundai-genesis
+Bakı,Opel,Vectra,2000,Sedan,Göy,1.6 L/101 a.g./Benzin,130 000 km,Mexaniki,Ön,Xeyr,6 999 AZN,,https://turbo.az/autos/8379552-opel-vectra
+Bakı,Mercedes,E 220 d,2015,Sedan,Qara,2.2 L/170 a.g./Dizel,185 000 km,Avtomat,Arxa,Xeyr,39 500 AZN,,https://turbo.az/autos/8079523-mercedes-e-220-d
+Şəki,LADA (VAZ),2106,1998,Sedan,Ağ,1.5 L/65 a.g./Benzin,99 000 km,Mexaniki,Arxa,Xeyr,8 000 AZN,,https://turbo.az/autos/8376827-lada-vaz-2106
+Bakı,Hyundai,Tucson,2019,"Offroader / SUV, 5 qapı",Göy,2.0 L/165 a.g./Benzin,43 000 km,Avtomat,Ön,Xeyr,35 400 AZN,,https://turbo.az/autos/7792038-hyundai-tucson
+Bakı,Chevrolet,Cruze,2014,Sedan,Tünd qırmızı,1.4 L/140 a.g./Benzin,241 000 km,Avtomat,Ön,Xeyr,14 200 AZN,,https://turbo.az/autos/8340696-chevrolet-cruze
+Bakı,Mercedes,GL 350 4MATIC,2013,"Offroader / SUV, 5 qapı",Yaş Asfalt,3.0 L/258 a.g./Dizel,248 000 km,Avtomat,Tam,Xeyr,67 830 AZN,,https://turbo.az/autos/7844657-mercedes-gl-350-4matic
+Bakı,Mercedes,E 350,2018,Sedan,Yaş Asfalt,2.0 L/211 a.g./Hibrid,125 000 km,Avtomat,Arxa,Xeyr,52 698 AZN,,https://turbo.az/autos/8246351-mercedes-e-350
+Bakı,BMW,X5,2019,"Offroader / SUV, 5 qapı",Qara,3.0 L/340 a.g./Benzin,25 000 km,Avtomat,Tam,Xeyr,119 000 AZN,,https://turbo.az/autos/7300692-bmw-x5
+Bakı,Toyota,Prius,2014,Liftbek,Yaş Asfalt,1.8 L/99 a.g./Hibrid,296 119 km,Variator,Ön,Xeyr,18 300 AZN,,https://turbo.az/autos/8359473-toyota-prius
+Bakı,Mercedes,E 300 e,2021,Sedan,Qara,2.0 L/320 a.g./Plug-in Hibrid,15 200 km,Avtomat,Arxa,Xeyr,77 180 AZN,,https://turbo.az/autos/8187698-mercedes-e-300-e
+Bakı,Audi,RS7,2015,Liftbek,Yaş Asfalt,4.0 L/605 a.g./Benzin,83 000 km,Avtomat,Tam,Xeyr,102 000 AZN,,https://turbo.az/autos/8326438-audi-rs7
+Bakı,Mercedes,C 240,1998,Sedan,Gümüşü,2.4 L/170 a.g./Benzin,295 000 km,Avtomat,Arxa,Xeyr,12 800 AZN,,https://turbo.az/autos/8378199-mercedes-c-240
+Gəncə,LADA (VAZ),Priora,2014,"Hetçbek, 5 qapı",Ağ,1.6 L/106 a.g./Benzin,145 236 km,Mexaniki,Ön,Xeyr,11 900 AZN,,https://turbo.az/autos/8398353-lada-vaz-priora
+Bakı,Mercedes,E 220 d,2018,Sedan,Qara,2.2 L/170 a.g./Dizel,92 000 km,Avtomat,Arxa,Xeyr,79 050 AZN,,https://turbo.az/autos/6987499-mercedes-e-220-d
+Bakı,VGV,U75 Plus,2024,"Offroader / SUV, 5 qapı",Bənövşəyi,2.0 L/224 a.g./Benzin,0 km,Avtomat,Ön,Bəli,38 000 AZN,,https://turbo.az/autos/7583406-vgv-u75-plus
+Sumqayıt,Nissan,Maxima,2004,Sedan,Ağ,3.0 L/200 a.g./Benzin,160 000 km,Avtomat,Ön,Xeyr,13 900 AZN,,https://turbo.az/autos/8414352-nissan-maxima
+Sumqayıt,Kia,Sorento,2015,"Offroader / SUV, 5 qapı",Qara,2.0 L/184 a.g./Dizel,60 000 km,Avtomat,Tam,Xeyr,35 900 AZN,,https://turbo.az/autos/8368658-kia-sorento
+Bakı,Mercedes,S 500,2000,Sedan,Qara,5.0 L/306 a.g./Benzin,230 000 km,Avtomat,Arxa,Xeyr,11 900 AZN,,https://turbo.az/autos/8234028-mercedes-s-500
+Bakı,Land Rover,Discovery,2018,"Offroader / SUV, 5 qapı",Ağ,3.0 L/249 a.g./Dizel,108 000 km,Avtomat,Tam,Xeyr,76 500 AZN,,https://turbo.az/autos/7788875-land-rover-discovery
+Bakı,Hyundai,Elantra,2020,Sedan,Qara,2.0 L/165 a.g./Benzin,55 246 km,Avtomat,Ön,Xeyr,28 850 AZN,,https://turbo.az/autos/8347322-hyundai-elantra
+Bakı,LADA (VAZ),Niva,2021,"Offroader / SUV, 3 qapı",Yaş Asfalt,1.7 L/80 a.g./Benzin,35 000 km,Mexaniki,Tam,Xeyr,18 900 AZN,,https://turbo.az/autos/8179458-lada-vaz-niva
+Bakı,Hyundai,Elantra,2016,Sedan,Boz,2.0 L/150 a.g./Benzin,109 000 km,Avtomat,Ön,Xeyr,23 000 AZN,,https://turbo.az/autos/8398361-hyundai-elantra
+Bakı,Mercedes,E 200 d,2017,Sedan,Qara,2.0 L/150 a.g./Dizel,144 000 km,Avtomat,Arxa,Xeyr,50 998 AZN,,https://turbo.az/autos/7981587-mercedes-e-200-d
+Sumqayıt,Kia,Sorento,2016,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,123 000 km,Avtomat,Ön,Xeyr,42 000 AZN,,https://turbo.az/autos/8094241-kia-sorento
+Şəmkir,LADA (VAZ),2103,1981,Sedan,Bej,1.3 L/65 a.g./Benzin,157 000 km,Mexaniki,Arxa,Xeyr,4 500 AZN,,https://turbo.az/autos/8421944-lada-vaz-2103
+Bakı,Hyundai,Elantra,2016,Sedan,Gümüşü,1.8 L/150 a.g./Benzin,115 537 km,Avtomat,Ön,Xeyr,20 900 AZN,,https://turbo.az/autos/8347513-hyundai-elantra
+Ağcabədi,LADA (VAZ),21099,1999,Sedan,Qəhvəyi,1.5 L/78 a.g./Benzin,298 997 km,Mexaniki,Ön,Xeyr,5 600 AZN,,https://turbo.az/autos/8422353-lada-vaz-21099
+Bakı,Jeep,Cherokee,2014,"Offroader / SUV, 5 qapı",Boz,2.0 L/170 a.g./Dizel,158 000 km,Avtomat,Ön,Xeyr,31 400 AZN,,https://turbo.az/autos/8397627-jeep-cherokee
+Bakı,Audi,A6,2017,Sedan,Ağ,2.0 L/252 a.g./Benzin,65 000 km,Avtomat,Tam,Xeyr,57 800 AZN,,https://turbo.az/autos/8317589-audi-a6
+Şirvan,Toyota,Land Cruiser Prado,2011,"Offroader / SUV, 5 qapı",Qara,2.7 L/163 a.g./Benzin,320 000 km,Avtomat,Tam,Xeyr,38 400 AZN,,https://turbo.az/autos/8312862-toyota-land-cruiser-prado
+Sumqayıt,Kia,Sportage,2015,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,207 000 km,Avtomat,Ön,Xeyr,32 000 AZN,,https://turbo.az/autos/8271223-kia-sportage
+Bakı,Alfa Romeo,Stelvio,2023,"Offroader / SUV, 5 qapı",Qızılı,2.9 L/505 a.g./Benzin,0 km,Avtomat,Tam,Bəli,200 169 AZN,,https://turbo.az/autos/8117060-alfa-romeo-stelvio
+Bakı,Toyota,bZ4X,2022,"Offroader / SUV, 5 qapı",Boz,0.0 L/204 a.g./Elektro,0 km,Reduktor,Tam,Bəli,62 050 AZN,,https://turbo.az/autos/7511211-toyota-bz4x
+Bakı,Polestones,01,2024,"Offroader / SUV, 5 qapı",Boz,1.5 L/476 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,94 350 AZN,,https://turbo.az/autos/8249584-polestones-01
+Bakı,Hyundai,Elantra,2014,Sedan,Ağ,1.6 L/132 a.g./Benzin,167 000 km,Avtomat,Ön,Xeyr,22 000 AZN,,https://turbo.az/autos/8415342-hyundai-elantra
+Bakı,Kia,Sorento,2015,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/184 a.g./Dizel,187 000 km,Avtomat,Ön,Xeyr,37 900 AZN,,https://turbo.az/autos/8365898-kia-sorento
+Bakı,BMW,540,1999,Sedan,Göy,4.4 L/286 a.g./Benzin,501 831 km,Avtomat,Arxa,Xeyr,11 800 AZN,,https://turbo.az/autos/8397089-bmw-540
+Bakı,Land Rover,Range Rover,2019,"Offroader / SUV, 5 qapı",Qara,5.0 L/525 a.g./Benzin,24 000 km,Avtomat,Tam,Xeyr,215 900 AZN,,https://turbo.az/autos/8398517-land-rover-range-rover
+Bakı,Mercedes,G 63 AMG,2013,"Offroader / SUV, 5 qapı",Ağ,5.5 L/544 a.g./Benzin,47 000 km,Avtomat,Tam,Xeyr,114 750 AZN,,https://turbo.az/autos/8003647-mercedes-g-63-amg
+Bakı,Mercedes,C 240,2002,Sedan,Ağ,2.6 L/177 a.g./Benzin,487 117 km,Avtomat,Arxa,Xeyr,9 500 AZN,,https://turbo.az/autos/8421026-mercedes-c-240
+Sumqayıt,Mitsubishi,Pajero,2006,"Offroader / SUV, 5 qapı",Ağ,3.8 L/250 a.g./Benzin,151 000 km,Avtomat,Tam,Xeyr,17 500 AZN,,https://turbo.az/autos/8027680-mitsubishi-pajero
+Sumqayıt,Mercedes,B 170,2008,"Hetçbek, 5 qapı",Ağ,1.7 L/116 a.g./Benzin,222 700 km,Avtomat,Ön,Xeyr,11 600 AZN,,https://turbo.az/autos/8375974-mercedes-b-170
+Sumqayıt,Hyundai,Santa Fe,2009,"Offroader / SUV, 5 qapı",Ağ,2.7 L/189 a.g./Benzin,270 000 km,Avtomat,Tam,Xeyr,23 000 AZN,,https://turbo.az/autos/8207481-hyundai-santa-fe
+Bakı,Hyundai,Elantra,2014,Sedan,Ağ,1.8 L/150 a.g./Benzin,177 625 km,Avtomat,Ön,Xeyr,20 200 AZN,,https://turbo.az/autos/8392017-hyundai-elantra
+Bakı,ZEEKR,001,2024,Liftbek,Boz,0.0 L/272 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,78 030 AZN,,https://turbo.az/autos/8245564-zeekr-001
+Sumqayıt,Toyota,Land Cruiser Prado,2009,"Offroader / SUV, 5 qapı",Qara,2.7 L/163 a.g./Benzin,240 000 km,Avtomat,Tam,Xeyr,33 000 AZN,,https://turbo.az/autos/8369153-toyota-land-cruiser-prado
+Bakı,Lexus,LX 570,2016,"Offroader / SUV, 5 qapı",Qara,5.7 L/383 a.g./Benzin,120 000 km,Avtomat,Tam,Xeyr,159 800 AZN,,https://turbo.az/autos/7551834-lexus-lx-570
+Bakı,Mercedes,G 63 AMG,2023,"Offroader / SUV, 5 qapı",Göy,4.0 L/585 a.g./Benzin,0 km,Avtomat,Tam,Bəli,484 500 AZN,,https://turbo.az/autos/8203972-mercedes-g-63-amg
+Bakı,Mitsubishi,L200,2024,"Pikap, ikiqat kabin",Ağ,2.4 L/154 a.g./Dizel,0 km,Mexaniki,Tam,Bəli,59 840 AZN,,https://turbo.az/autos/8408085-mitsubishi-l200
+Bakı,Chery,Tiggo 7 Pro,2023,"Offroader / SUV, 5 qapı",Qara,1.5 L/147 a.g./Benzin,0 km,Avtomat,Ön,Bəli,39 900 AZN,,https://turbo.az/autos/7621651-chery-tiggo-7-pro
+Bakı,Infiniti,QX55,2023,"Offroader / SUV, 5 qapı",Qara,2.0 L/270 a.g./Benzin,0 km,Avtomat,Tam,Bəli,84 830 AZN,,https://turbo.az/autos/7670427-infiniti-qx55
+Bakı,Lexus,ES 300h,2015,Sedan,Yaş Asfalt,2.5 L/161 a.g./Hibrid,85 000 km,Avtomat,Ön,Xeyr,44 500 AZN,,https://turbo.az/autos/8267294-lexus-es-300h
+Bakı,Nissan,Note,2015,"Hetçbek, 5 qapı",Qəhvəyi,1.2 L/98 a.g./Benzin,42 000 km,Avtomat,Ön,Xeyr,15 200 AZN,,https://turbo.az/autos/8410058-nissan-note
+Bakı,Hyundai,Sonata,2021,Sedan,Qara,2.0 L/150 a.g./Hibrid,58 000 km,Avtomat,Ön,Xeyr,42 700 AZN,,https://turbo.az/autos/8350507-hyundai-sonata
+Bakı,BMW,X5,2016,"Offroader / SUV, 5 qapı",Yaş Asfalt,2.0 L/313 a.g./Plug-in Hibrid,208 000 km,Avtomat,Tam,Xeyr,57 630 AZN,,https://turbo.az/autos/8404335-bmw-x5
+Bakı,BMW,X5,2016,"Offroader / SUV, 5 qapı",Ağ,2.0 L/313 a.g./Plug-in Hibrid,125 000 km,Avtomat,Tam,Xeyr,59 500 AZN,,https://turbo.az/autos/8390545-bmw-x5
+Bakı,Toyota,Land Cruiser Prado,2010,"Offroader / SUV, 5 qapı",Ağ,2.7 L/163 a.g./Benzin,210 000 km,Avtomat,Tam,Xeyr,39 900 AZN,,https://turbo.az/autos/8382307-toyota-land-cruiser-prado
+Sumqayıt,Chevrolet,Malibu,2016,Sedan,Qara,1.5 L/160 a.g./Benzin,142 000 km,Avtomat,Ön,Xeyr,19 500 AZN,,https://turbo.az/autos/8339231-chevrolet-malibu
+Bakı,BMW,320,2015,Sedan,Ağ,2.0 L/190 a.g./Dizel,225 000 km,Avtomat,Arxa,Xeyr,37 230 AZN,,https://turbo.az/autos/8288279-bmw-320
+Bakı,ZEEKR,001,2024,Liftbek,Narıncı,0.0 L/544 a.g./Elektro,0 km,Reduktor,Tam,Bəli,98 430 AZN,,https://turbo.az/autos/8245433-zeekr-001
+Bakı,Chevrolet,Orlando,2014,"Offroader / SUV, 5 qapı",Ağ,2.0 L/170 a.g./Dizel,266 000 km,Avtomat,Ön,Xeyr,19 500 AZN,,https://turbo.az/autos/8390882-chevrolet-orlando
+Bakı,ZEEKR,X,2024,"Offroader / SUV, 5 qapı",Bej,0.0 L/272 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,59 330 AZN,,https://turbo.az/autos/8245579-zeekr-x
+Bakı,Kia,Sorento,2014,"Offroader / SUV, 5 qapı",Ağ,2.0 L/186 a.g./Dizel,151 498 km,Avtomat,Ön,Xeyr,34 200 AZN,,https://turbo.az/autos/8422339-kia-sorento
+Bakı,Honda,Civic,2007,Sedan,Gümüşü,1.3 L/95 a.g./Hibrid,198 740 km,Avtomat,Ön,Xeyr,10 500 AZN,,https://turbo.az/autos/8420180-honda-civic
+Bakı,Hyundai,Avante,2016,Sedan,Mavi,1.6 L/140 a.g./Dizel,130 000 km,Avtomat,Ön,Xeyr,24 700 AZN,,https://turbo.az/autos/8372392-hyundai-avante
+Bakı,IM,LS6,2024,"Offroader / SUV, 5 qapı",Çəhrayı,0.0 L/340 a.g./Elektro,0 km,Reduktor,Arxa,Bəli,77 690 AZN,,https://turbo.az/autos/8354123-im-ls6
+Bakı,Li Auto,L7,2024,"Offroader / SUV, 5 qapı",Qara,1.5 L/450 a.g./Plug-in Hibrid,0 km,Avtomat,Tam,Bəli,84 830 AZN,,https://turbo.az/autos/8300899-li-auto-l7
+Bakı,Changan,CS 85,2022,SUV Kupe,Gümüşü,2.0 L/233 a.g./Benzin,25 000 km,Avtomat,Ön,Xeyr,51 000 AZN,,https://turbo.az/autos/8416906-changan-cs-85
+Bakı,Toyota,Land Cruiser Prado,2014,"Offroader / SUV, 5 qapı",Qara,2.7 L/163 a.g./Benzin,183 000 km,Avtomat,Tam,Xeyr,53 550 AZN,,https://turbo.az/autos/8375745-toyota-land-cruiser-prado
+Bakı,Kia,Sorento,2017,"Offroader / SUV, 5 qapı",Göy,2.0 L/185 a.g./Dizel,140 000 km,Avtomat,Ön,Xeyr,44 800 AZN,,https://turbo.az/autos/8339685-kia-sorento
+Bakı,Hyundai,Accent,2018,Sedan,Ağ,1.6 L/140 a.g./Benzin,42 600 km,Avtomat,Ön,Xeyr,22 900 AZN,,https://turbo.az/autos/8385879-hyundai-accent
+Şəki,Kia,Sportage,2016,"Offroader / SUV, 5 qapı",Ağ,1.7 L/115 a.g./Dizel,158 000 km,Robot,Ön,Xeyr,29 900 AZN,,https://turbo.az/autos/8320523-kia-sportage
+Bakı,Mercedes,E 300,2017,Sedan,Ağ,2.0 L/245 a.g./Benzin,76 000 km,Avtomat,Arxa,Xeyr,71 230 AZN,,https://turbo.az/autos/8347711-mercedes-e-300
+Bakı,Dodge,Durango,2022,"Offroader / SUV, 5 qapı",Boz,3.6 L/290 a.g./Benzin,0 km,Avtomat,Tam,Bəli,116 790 AZN,,https://turbo.az/autos/6762545-dodge-durango
+Bakı,DFSK,E5,2023,"Offroader / SUV, 5 qapı",Ağ,1.5 L/174 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,47 000 AZN,,https://turbo.az/autos/7919791-dfsk-e5
+Bakı,Hyundai,Sonata,2008,Sedan,Ağ,2.4 L/174 a.g./Benzin,220 000 km,Avtomat,Ön,Xeyr,16 900 AZN,,https://turbo.az/autos/8382278-hyundai-sonata
+Bakı,Kia,Rio,2006,"Hetçbek, 5 qapı",Gümüşü,1.5 L/110 a.g./Dizel,388 455 km,Mexaniki,Ön,Xeyr,8 000 AZN,,https://turbo.az/autos/8388413-kia-rio
+Bakı,Land Rover,Range Rover,2014,"Offroader / SUV, 5 qapı",Ağ,3.0 L/340 a.g./Benzin,126 000 km,Avtomat,Tam,Xeyr,74 800 AZN,,https://turbo.az/autos/8409968-land-rover-range-rover
+Bakı,Mercedes,E 250,2018,Sedan,Ağ,2.0 L/211 a.g./Benzin,73 801 km,Avtomat,Arxa,Xeyr,64 600 AZN,,https://turbo.az/autos/8200576-mercedes-e-250
+Bakı,Forthing,T5 EVO,2024,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/192 a.g./Hibrid,0 km,Avtomat,Ön,Bəli,45 900 AZN,,https://turbo.az/autos/8342186-forthing-t5-evo
+Bakı,BMW,520,2015,Sedan,Ağ,2.0 L/190 a.g./Dizel,141 700 km,Avtomat,Arxa,Xeyr,42 900 AZN,,https://turbo.az/autos/8376470-bmw-520
+Bakı,Mercedes,CLS 350,2007,Sedan,Qara,3.5 L/272 a.g./Benzin,255 000 km,Avtomat,Arxa,Xeyr,21 300 AZN,,https://turbo.az/autos/8333607-mercedes-cls-350
+Bakı,Mercedes,E 240,2005,Sedan,Qara,2.6 L/177 a.g./Benzin,290 000 km,Avtomat,Arxa,Xeyr,25 500 AZN,,https://turbo.az/autos/8197962-mercedes-e-240
+Bakı,Kia,Sorento,2019,"Offroader / SUV, 5 qapı",Ağ,2.0 L/186 a.g./Dizel,83 500 km,Avtomat,Ön,Xeyr,45 700 AZN,,https://turbo.az/autos/8394502-kia-sorento
+Ağdaş,LADA (VAZ),2107,2004,Sedan,Ağ,1.6 L/75 a.g./Benzin,99 000 km,Mexaniki,Arxa,Xeyr,4 700 AZN,,https://turbo.az/autos/8189731-lada-vaz-2107
+Bakı,BYD,Song Plus,2024,"Offroader / SUV, 5 qapı",Yaş Asfalt,1.5 L/225 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,51 850 AZN,,https://turbo.az/autos/8422567-byd-song-plus
+Bakı,Chevrolet,Aveo,2019,Sedan,Qırmızı,1.6 L/115 a.g./Benzin,22 000 km,Avtomat,Ön,Xeyr,23 500 AZN,,https://turbo.az/autos/8333306-chevrolet-aveo
+Bakı,Hyundai,Elantra,2014,Sedan,Qara,1.8 L/150 a.g./Benzin,75 000 km,Avtomat,Ön,Xeyr,22 800 AZN,,https://turbo.az/autos/8399672-hyundai-elantra
+Quba,LADA (VAZ),2107,2012,Sedan,Ağ,1.6 L/75 a.g./Benzin,98 000 km,Mexaniki,Arxa,Xeyr,10 300 AZN,,https://turbo.az/autos/8391844-lada-vaz-2107
+Salyan,LADA (VAZ),2107,1992,Sedan,Ağ,1.6 L/75 a.g./Benzin,200 000 km,Mexaniki,Arxa,Xeyr,2 600 AZN,,https://turbo.az/autos/8406021-lada-vaz-2107
+Bakı,Kia,K5,2021,Sedan,Boz,1.6 L/180 a.g./Benzin,31 500 km,Avtomat,Ön,Xeyr,43 000 AZN,,https://turbo.az/autos/7693821-kia-k5
+Bakı,Mercedes,E 220 d,2007,Sedan,Gümüşü,2.2 L/170 a.g./Dizel,238 067 km,Avtomat,Arxa,Xeyr,23 800 AZN,,https://turbo.az/autos/8397296-mercedes-e-220-d
+Bakı,Kia,Sorento,2016,"Offroader / SUV, 5 qapı",Qara,2.0 L/272 a.g./Benzin,70 958 km,Avtomat,Tam,Xeyr,36 500 AZN,,https://turbo.az/autos/8372237-kia-sorento
+Bakı,Toyota,Prius,2008,Liftbek,Boz,1.5 L/76 a.g./Hibrid,370 000 km,Variator,Ön,Xeyr,10 900 AZN,,https://turbo.az/autos/8416879-toyota-prius
+Bakı,Mercedes,GLC 300 4MATIC,2020,"Offroader / SUV, 5 qapı",Ağ,2.0 L/245 a.g./Benzin,45 000 km,Avtomat,Tam,Xeyr,69 360 AZN,,https://turbo.az/autos/8408855-mercedes-glc-300-4matic
+Bakı,Mercedes,E 220,2002,Sedan,Gümüşü,2.2 L/150 a.g./Dizel,410 000 km,Avtomat,Arxa,Xeyr,16 200 AZN,,https://turbo.az/autos/8188559-mercedes-e-220
+Bakı,BMW,328,2014,Sedan,Gümüşü,2.0 L/245 a.g./Benzin,128 748 km,Avtomat,Arxa,Xeyr,27 900 AZN,,https://turbo.az/autos/8404251-bmw-328
+Bakı,Chevrolet,Cruze,2015,Sedan,Tünd qırmızı,1.4 L/140 a.g./Benzin,185 000 km,Avtomat,Ön,Xeyr,13 900 AZN,,https://turbo.az/autos/8389845-chevrolet-cruze
+Bakı,Hyundai,Elantra,2017,Sedan,Gümüşü,2.0 L/150 a.g./Benzin,73 000 km,Avtomat,Ön,Xeyr,25 500 AZN,,https://turbo.az/autos/8404914-hyundai-elantra
+Bakı,Chevrolet,Cruze,2015,Sedan,Boz,1.4 L/153 a.g./Benzin,240 000 km,Avtomat,Ön,Xeyr,14 300 AZN,,https://turbo.az/autos/8416087-chevrolet-cruze
+Bakı,Chevrolet,Aveo,2019,Sedan,Qara,1.4 L/100 a.g./Benzin,18 000 km,Avtomat,Ön,Xeyr,22 500 AZN,,https://turbo.az/autos/8412798-chevrolet-aveo
+Bakı,Kia,Rio,2013,Sedan,Ağ,1.4 L/107 a.g./Benzin,188 000 km,Avtomat,Ön,Xeyr,17 900 AZN,,https://turbo.az/autos/8401737-kia-rio
+Bakı,Toyota,Land Cruiser Prado,2008,"Offroader / SUV, 5 qapı",Ağ,2.7 L/163 a.g./Benzin,209 000 km,Avtomat,Tam,Xeyr,31 000 AZN,,https://turbo.az/autos/8342572-toyota-land-cruiser-prado
+Bakı,Hyundai,Elantra,2019,Sedan,Qara,2.0 L/150 a.g./Benzin,71 616 km,Avtomat,Ön,Xeyr,27 500 AZN,,https://turbo.az/autos/8375814-hyundai-elantra
+Bakı,LADA (VAZ),2107,2003,Sedan,Ağ,1.6 L/75 a.g./Benzin,99 648 km,Mexaniki,Arxa,Xeyr,4 600 AZN,,https://turbo.az/autos/8422561-lada-vaz-2107
+Bakı,Toyota,Prius C,2018,"Hetçbek, 5 qapı",Ağ,1.5 L/73 a.g./Hibrid,52 000 km,Variator,Ön,Xeyr,19 200 AZN,,https://turbo.az/autos/8241296-toyota-prius-c
+Bakı,Kia,Optima,2014,Sedan,Boz,2.0 L/150 a.g./Benzin,125 000 km,Avtomat,Ön,Xeyr,26 900 AZN,,https://turbo.az/autos/8379278-kia-optima
+Bakı,Changan,Uni-T,2022,"Offroader / SUV, 5 qapı",Qara,1.5 L/180 a.g./Benzin,41 500 km,Avtomat,Ön,Xeyr,35 900 AZN,,https://turbo.az/autos/8338249-changan-uni-t
+Bakı,Land Rover,Defender,2022,"Offroader / SUV, 5 qapı",Qara,3.0 L/400 a.g./Benzin,0 km,Avtomat,Tam,Bəli,229 500 AZN,,https://turbo.az/autos/7816950-land-rover-defender
+Bakı,Nissan,Xterra,2022,"Offroader / SUV, 5 qapı",Qara,2.5 L/170 a.g./Benzin,2 000 km,Avtomat,Tam,Xeyr,57 800 AZN,,https://turbo.az/autos/8146668-nissan-xterra
+Bakı,Hyundai,Elantra,2019,Sedan,Qara,2.0 L/150 a.g./Benzin,87 000 km,Avtomat,Ön,Xeyr,27 200 AZN,,https://turbo.az/autos/8313609-hyundai-elantra
+Bakı,Hyundai,Elantra,2015,Sedan,Gümüşü,1.8 L/150 a.g./Benzin,71 000 km,Avtomat,Ön,Xeyr,21 200 AZN,,https://turbo.az/autos/8418795-hyundai-elantra
+Bakı,Kia,Sorento,2020,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,81 000 km,Avtomat,Ön,Xeyr,55 400 AZN,,https://turbo.az/autos/8261615-kia-sorento
+Bakı,Changan,Qiyuan A06,2023,Liftbek,Yaşıl,1.5 L/335 a.g./Plug-in Hibrid,0 km,Avtomat,Ön,Bəli,39 950 AZN,,https://turbo.az/autos/8413468-changan-qiyuan-a06
+Bakı,Mercedes,C 300 4MATIC,2015,Sedan,Yaş Asfalt,2.0 L/245 a.g./Benzin,124 000 km,Avtomat,Tam,Xeyr,41 650 AZN,,https://turbo.az/autos/8207172-mercedes-c-300-4matic
+Bakı,Land Rover,Defender,2022,"Offroader / SUV, 5 qapı",Qara,3.0 L/400 a.g./Benzin,23 000 km,Avtomat,Tam,Xeyr,201 450 AZN,,https://turbo.az/autos/8363408-land-rover-defender
+Bakı,Kia,Sorento,2015,"Offroader / SUV, 5 qapı",Ağ,2.0 L/184 a.g./Dizel,140 000 km,Avtomat,Ön,Xeyr,40 400 AZN,,https://turbo.az/autos/8382250-kia-sorento
