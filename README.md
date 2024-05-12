@@ -4,7 +4,7 @@ and uses it to analyse current car market
 
 ## Prerequisites
 
-Before you begin, make sure you have installed Python.
+Before you begin, make sure you have Python installed.
 
 ## ⚙ SETUP
 1. Create base dir for project
@@ -41,5 +41,5 @@ Windows:
 > py get_cheapest.py (example)
 
 Mac/Linux:
-> python3 get_cheapest (example)
+> python3 get_cheapest.py (example)
 ```
